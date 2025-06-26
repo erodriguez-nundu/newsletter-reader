@@ -61,7 +61,9 @@
   }
 
   .newsletter-content {
-    @apply prose prose-lg max-w-none;
+    @apply max-w-none;
+    font-size: 1.125rem;
+    line-height: 1.75;
   }
 
   .newsletter-content h1 {
