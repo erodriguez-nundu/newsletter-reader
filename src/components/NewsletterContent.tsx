@@ -28,6 +28,7 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
         const response = await fetch(`/newsletter/${fileName}`);
         if (!response.ok) throw new Error('No existe el archivo para esta fecha.');
         const markdownContent = await response.text();
+        console.log('Contenido markdown cargado:', markdownContent);
         setContent(markdownContent);
       } catch (err) {
         setError('No se pudo cargar el contenido para esta fecha.');
@@ -83,16 +84,7 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
 
   return (
     <div className="max-w-4xl mx-auto px-8 py-8">
-      <Card className="overflow-hidden">
-        {/* <div className="bg-newsletter-gray px-8 py-4 border-b border-gray-200">
-          <div className="flex items-center space-x-2">
-            <FileText className="w-5 h-5 text-newsletter-blue" />
-            <span className="text-sm font-medium text-newsletter-blue">
-              Newsletter • {new Date(date).toLocaleDateString('es-ES')}
-            </span>
-          </div>
-        </div> */}
-
+      <Card className="overflow-hidden border-0">
         <div className="p-8">
           <div 
             className="newsletter-content"

@@ -1,4 +1,3 @@
-
 import { NewsletterHeader } from '@/components/NewsletterHeader';
 import { NewsletterContent } from '@/components/NewsletterContent';
 import { useDateNavigation } from '@/hooks/useDateNavigation';
@@ -26,11 +25,18 @@ const Index = () => {
         <NewsletterContent date={currentDate} />
       </main>
 
-      <footer className="bg-white border-t border-gray-200 py-8">
-        <div className="max-w-4xl mx-auto px-8">
-          <div className="text-center text-sm text-newsletter-dark-gray">
-            <p>Newsletter Diario Profesional</p>
-            <p className="mt-1">Diseñado para ofrecer información financiera de calidad</p>
+      <footer className="bg-white border-t border-gray-200 py-2">
+        <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between text-xs text-blue-600">
+          <div className="w-full md:w-1/3 text-left mb-1 md:mb-0">
+          Software desarrollado por Nundu Desarrollo de Software S.L
+          </div>
+          <div className="w-full md:w-1/3 text-center mb-1 md:mb-0">
+            <a href="https://nundusoft.com" target="_blank" rel="noopener noreferrer" className="hover:underline">
+              https://nundusoft.com
+            </a>
+          </div>
+          <div className="w-full md:w-1/3 text-right">
+            <span className="text-blue-600">Todos los derechos reservados 2025 ©</span>
           </div>
         </div>
       </footer>

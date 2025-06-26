@@ -35,7 +35,7 @@ export const NewsletterHeader = ({
               <Calendar className="w-4 h-4 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Newsletter Diario</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Información Financiera Profesional Personalizada</h1>
               <p className="text-sm text-newsletter-dark-gray capitalize">
                 {formatDate(currentDate)}
               </p>
