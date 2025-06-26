@@ -1,4 +1,3 @@
-
 import { Calendar, ChevronLeft, ChevronRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
@@ -49,7 +48,7 @@ export const NewsletterHeader = ({
               size="sm"
               onClick={onPreviousDay}
               disabled={!hasPrevious}
-              className="border-gray-300 hover:bg-gray-50 text-newsletter-blue hover:text-newsletter-blue"
+              className={`border-gray-300 text-white bg-[rgb(75,85,99)] hover:bg-[rgb(55,65,81)] hover:text-white disabled:bg-gray-200 disabled:text-gray-400 ${!hasPrevious ? '' : ''}`}
             >
               <ChevronLeft className="w-4 h-4" />
               Anterior
@@ -59,7 +58,7 @@ export const NewsletterHeader = ({
               size="sm"
               onClick={onNextDay}
               disabled={!hasNext}
-              className="border-gray-300 hover:bg-gray-50 text-newsletter-blue hover:text-newsletter-blue"
+              className={`border-gray-300 text-white bg-[rgb(75,85,99)] hover:bg-[rgb(55,65,81)] hover:text-white disabled:bg-gray-200 disabled:text-gray-400 ${!hasNext ? '' : ''}`}
             >
               Siguiente
               <ChevronRight className="w-4 h-4" />

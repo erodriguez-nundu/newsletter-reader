@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { FileText, AlertCircle } from 'lucide-react';
@@ -12,78 +11,29 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // Simulated markdown content for demo purposes
-  // In a real implementation, this would fetch from actual .md files
-  const getMockContent = (date: string) => {
-    const mockContent = `# Resumen Financiero Diario
-*${new Date(date).toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}*
-
-## Mercados Principales
-
-### Renta Variable
-Los índices europeos han mostrado una **tendencia alcista** durante la sesión de hoy, con el IBEX 35 cerrando con una ganancia del **0.8%**. Los sectores que mejor comportamiento han tenido son:
-
-- **Tecnología**: +1.2%
-- **Servicios Financieros**: +0.9%
-- **Energía**: +0.7%
-
-### Renta Fija
-El mercado de bonos presenta una jornada de **consolidación**, con el bono alemán a 10 años manteniéndose estable en el **2.65%**.
-
-> "La estabilidad en los mercados de deuda refleja las expectativas moderadas sobre futuras decisiones de política monetaria" - Analista Senior
-
-## Noticias Destacadas
-
-### Sector Bancario
-El sector bancario europeo ha mostrado fortaleza tras los últimos resultados trimestrales publicados. **Santander** y **BBVA** lideran las ganancias del día.
-
-### Materias Primas
-- **Petróleo Brent**: $85.20 (+0.5%)
-- **Oro**: $1,945 (-0.2%)
-- **Cobre**: $8,150 (+0.8%)
-
-## Perspectivas
-
-Para la próxima sesión esperamos:
-1. Continuidad en la tendencia alcista
-2. Atención a los datos de inflación
-3. Seguimiento de las decisiones del BCE
-
----
-
-*Este boletín es una simulación para demostración. En un entorno real, el contenido se cargaría desde archivos .md ubicados en la carpeta del sistema.*`;
-
-    return mockContent;
-  };
-
   useEffect(() => {
     const loadContent = async () => {
       setLoading(true);
       setError(null);
-      
       try {
-        // Simulate loading delay
-        await new Promise(resolve => setTimeout(resolve, 500));
-        
-        // In a real implementation, this would be:
-        // const response = await fetch(`/noticias/noticias-${date}.md`);
-        // const markdownContent = await response.text();
-        
-        const mockContent = getMockContent(date);
-        setContent(mockContent);
+        // Formato esperado: src/newsletter/newsletter-YYYY-MM-DD.md
+        const fileName = `newsletter-${date}.md`;
+        const response = await fetch(`/src/newsletter/${fileName}`);
+        if (!response.ok) throw new Error('No existe el archivo para esta fecha.');
+        const markdownContent = await response.text();
+        setContent(markdownContent);
       } catch (err) {
         setError('No se pudo cargar el contenido para esta fecha.');
       } finally {
         setLoading(false);
       }
     };
-
     loadContent();
   }, [date]);
 
   const renderMarkdown = (markdown: string) => {
     // Simple markdown parser for demo purposes
-    // In production, you'd use a proper markdown parser like marked or remark
+    // En producción, usa un parser real como marked o remark
     return markdown
       .replace(/^# (.*$)/gm, '<h1>$1</h1>')
       .replace(/^## (.*$)/gm, '<h2>$1</h2>')
