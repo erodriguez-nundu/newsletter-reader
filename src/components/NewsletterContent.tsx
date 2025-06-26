@@ -16,9 +16,18 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
       setLoading(true);
       setError(null);
       try {
-        // Formato esperado: src/newsletter/newsletter-YYYY-MM-DD.md
-        const fileName = `newsletter-${date}.md`;
-        const response = await fetch(`/src/newsletter/${fileName}`);
+        // Nuevo formato esperado: newsletter/noticias-DD-mes-YYYY.md
+        // Convertir la fecha a ese formato
+        const meses = [
+          'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
+          'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'
+        ];
+        const fecha = new Date(date);
+        const dia = fecha.getDate().toString().padStart(2, '0');
+        const mes = meses[fecha.getMonth()];
+        const anio = fecha.getFullYear();
+        const fileName = `noticias-${dia}-${mes}-${anio}.md`;
+        const response = await fetch(`/newsletter/${fileName}`);
         if (!response.ok) throw new Error('No existe el archivo para esta fecha.');
         const markdownContent = await response.text();
         setContent(markdownContent);
