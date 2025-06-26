@@ -16,8 +16,6 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
       setLoading(true);
       setError(null);
       try {
-        // Nuevo formato esperado: newsletter/noticias-DD-mes-YYYY.md
-        // Convertir la fecha a ese formato
         const meses = [
           'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio',
           'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'
@@ -41,26 +39,17 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
   }, [date]);
 
   const renderMarkdown = (markdown: string) => {
-    // Simple markdown parser for demo purposes
-    // En producción, usa un parser real como marked o remark
     return markdown
-      .replace(/^# (.*$)/gm, '<h1>$1</h1>')
-      .replace(/^## (.*$)/gm, '<h2>$1</h2>')
-      .replace(/^### (.*$)/gm, '<h3>$1</h3>')
-      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.*?)\*/g, '<em>$1</em>')
-      .replace(/^> (.*$)/gm, '<blockquote>$1</blockquote>')
-      .replace(/^- (.*$)/gm, '<li>$1</li>')
-      .replace(/^(\d+)\. (.*$)/gm, '<li>$1. $2</li>')
-      .replace(/\n\n/g, '</p><p>')
-      .replace(/^\s*\n/gm, '')
-      .replace(/^(.+)$/gm, '<p>$1</p>')
-      .replace(/<p><h/g, '<h')
-      .replace(/h><\/p>/g, 'h>')
-      .replace(/<p><li>/g, '<ul><li>')
-      .replace(/<\/li><\/p>/g, '</li></ul>')
-      .replace(/<p><blockquote>/g, '<blockquote>')
-      .replace(/<\/blockquote><\/p>/g, '</blockquote>');
+      .replace(/^# (.+)$/gm, '<h1 class="text-3xl font-bold mb-4">$1</h1>')
+      .replace(/^## (.+)$/gm, '<h2 class="text-xl font-semibold text-newsletter-blue mt-6 mb-2">$1</h2>')
+      .replace(/^### (\d+)\. (.+)$/gm, '<h3 class="text-base font-semibold mb-1">$1. $2</h3>')
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>')
+      .replace(/^> (.+)$/gm, '<blockquote class="border-l-4 border-newsletter-blue pl-4 italic text-sm text-newsletter-dark-gray">$1</blockquote>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-newsletter-blue hover:underline" target="_blank">$1</a>')
+      .replace(/\n{2,}/g, '</p><p>')
+      .replace(/^(?!<h|<blockquote|<ul|<p|<strong|<em|<a)(.+)$/gm, '<p>$1</p>')
+      .replace(/<p><\/p>/g, '');
   };
 
   if (loading) {
@@ -103,7 +92,7 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
             </span>
           </div>
         </div>
-        
+
         <div className="p-8">
           <div 
             className="newsletter-content"
