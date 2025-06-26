@@ -41,29 +41,6 @@ export const NewsletterHeader = ({
               </p>
             </div>
           </div>
-          
-          <div className="flex items-center space-x-2">
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={onPreviousDay}
-              disabled={!hasPrevious}
-              className={`border-gray-300 text-white bg-[rgb(75,85,99)] hover:bg-[rgb(55,65,81)] hover:text-white disabled:bg-gray-200 disabled:text-gray-400 ${!hasPrevious ? '' : ''}`}
-            >
-              <ChevronLeft className="w-4 h-4" />
-              Anterior
-            </Button>
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={onNextDay}
-              disabled={!hasNext}
-              className={`border-gray-300 text-white bg-[rgb(75,85,99)] hover:bg-[rgb(55,65,81)] hover:text-white disabled:bg-gray-200 disabled:text-gray-400 ${!hasNext ? '' : ''}`}
-            >
-              Siguiente
-              <ChevronRight className="w-4 h-4" />
-            </Button>
-          </div>
         </div>
       </div>
     </header>

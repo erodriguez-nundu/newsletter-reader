@@ -84,14 +84,14 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
   return (
     <div className="max-w-4xl mx-auto px-8 py-8">
       <Card className="overflow-hidden">
-        <div className="bg-newsletter-gray px-8 py-4 border-b border-gray-200">
+        {/* <div className="bg-newsletter-gray px-8 py-4 border-b border-gray-200">
           <div className="flex items-center space-x-2">
             <FileText className="w-5 h-5 text-newsletter-blue" />
             <span className="text-sm font-medium text-newsletter-blue">
               Newsletter • {new Date(date).toLocaleDateString('es-ES')}
             </span>
           </div>
-        </div>
+        </div> */}
 
         <div className="p-8">
           <div 
