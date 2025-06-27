@@ -39,17 +39,27 @@ export const NewsletterContent = ({ date }: NewsletterContentProps) => {
     loadContent();
   }, [date]);
 
+  // Función para convertir el markdown generado a HTML real
   const renderMarkdown = (markdown: string) => {
     return markdown
+      // Títulos
       .replace(/^# (.+)$/gm, '<h1 class="text-3xl font-bold mb-4">$1</h1>')
       .replace(/^## (.+)$/gm, '<h2 class="text-xl font-semibold text-newsletter-blue mt-6 mb-2">$1</h2>')
-      .replace(/^### (\d+)\. (.+)$/gm, '<h3 class="text-base font-semibold mb-1">$1. $2</h3>')
+      // Separador
+      .replace(/^---$/gm, '<hr class="my-6 border-newsletter-blue" />')
+      // Enlaces con negrita y numeración
+      .replace(/\*\*(\d+)\) \[([^\]]+)\]\(([^)]+)\)\*\*/g, '<strong>$1) <a href="$3" class="text-newsletter-blue hover:underline" target="_blank">$2</a></strong>')
+      // Negritas
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*(.+?)\*/g, '<em>$1</em>')
-      .replace(/^> (.+)$/gm, '<blockquote class="border-l-4 border-newsletter-blue pl-4 italic text-sm text-newsletter-dark-gray">$1</blockquote>')
-      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-newsletter-blue hover:underline" target="_blank">$1</a>')
-      .replace(/\n{2,}/g, '</p><p>')
-      .replace(/^(?!<h|<blockquote|<ul|<p|<strong|<em|<a)(.+)$/gm, '<p>$1</p>')
+      // Texto en párrafos (líneas sueltas que no son títulos, separadores ni enlaces)
+      .replace(/^(?!<h|<hr|<strong|<a|\s*$)(.+)$/gm, '<p>$1</p>')
+      // Reemplazar saltos de línea múltiples por uno solo
+      .replace(/\n{2,}/g, '\n')
+      // Reemplazar saltos de línea restantes por <br />
+      .replace(/\n/g, '<br />')
+      // Eliminar <br /> duplicados
+      .replace(/(<br \/>\s*){2,}/g, '<br />')
+      // Eliminar <p></p> vacíos
       .replace(/<p><\/p>/g, '');
   };
 
