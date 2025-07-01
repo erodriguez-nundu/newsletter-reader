@@ -1,0 +1,394 @@
+
+## 🔹 Airbnb Inc
+
+**1) [Airbnb, Inc. (ABNB) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance](https://news.google.com/rss/articles/CBMif0FVX3lxTE9odjhablhiTU5OYUdSOER5UVJtWHVsMGduUFliLWlzT0h5dkIwbmI2SEF4bHAyTkVqRG4wX2tDZWRtSC1xcERDN1kzT1NXcGU4bEFwbDh1RDRTMXlGYm1kTlFsYnpLb2FGdXJXZHNYZHVLSEhfTmtNU2dRSUVRMUE?oc=5)**
+
+**2) [Insider Sell: Aristotle Balogh Sells 600 Shares of Airbnb Inc (ABNB) - GuruFocus](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUVZoNWp5TzdtbDd2SUdoODFzSUplcXd4VmREUUp0RHhNN3k5Nm0wcnRlb19NcS1QVUtOejM1ekN1cEQtbHI5XzFSZVhHejAwQTFlbzR1bGpDWXFJMi13YTk3Q2RZUFQ4Q1BjdDRwNVVaQklZRlpoVVRacnJ0dlRQRkJMMFplRFpSQW1tS0JzSk81VS0yOVpVbGFmOVFNSTZpRGl0eGNGZw?oc=5)**
+
+**3) [Join the Tropicoqueta vibes with KAROL G - news.airbnb.com](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9weC1TRXdmOU40ajVCVG9ua281Z1o1ZmtpTUlfRVNKdXZtdjRCeTZiQUpJVWF2QVlGbUs3cDFHeFItQjJ1d2c?oc=5)**
+
+## 🔹 Adobe Inc
+
+**1) [KPP Advisory Services LLC Takes Position in Adobe Inc. (NASDAQ:ADBE) - MarketBeat](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUFwY2thbjY4RE93ZWs1UTFNOGhGSGlRbk9NelFyb3FLbDR5ZWVSUGxxSWFyeXFnSERJcjMwV3FKejZWaE5iMUFCLXZmTmQtcThUYkxOQldwUzhWOFU5bEVsRDNIblVJMEhqVEp5ZGRyMElMUmRfblVzd3ExRnZhSU82QXNjeTk0ckhuUDBSb1BMOGJreG9laWlVcUJWT1B1V0VNUm9lcFM1ejN5UW1XVUx2THVkc1dWX056SjRjSlktSTZxQTdFc3hycw?oc=5)**
+
+**2) [Nvidia is giving away free Adobe Creative Cloud subscriptions with access to all software — one month for RTX 30 and 40 series owners, two months for RTX 50 series owners - Tom's Hardware](https://news.google.com/rss/articles/CBMivwJBVV95cUxNNVZaTGdHZzl6bENHSlhJNmcxRzB1LUY5dTJzd3NqTjFQMHFkNEJzcl9JdUVxSFNlWVBySFlPVUxjOE9ib1hleDNyeWVQUGZsZXViUUFMX21ua3NIRXI4dDd0N1g5bHc1NjQtaGQ3OVRONVlGV0R3UDlINUMyWDAxSExhaE1ReGQ0dnBOMU9tZEhybVhVSEl5QzFzZlNzazktTU1PdjI4Y3RKbndyclg5YWEyZE9ocUpzT3B1cGJqaVNiY1FCV0JMNGpVQnFQT3BWX1FhaXo5WjBoYUdvQ3o4TWl6M1VRaUs4elJHaVRBZ1g0MGMzdEwyUjdXSGptR0xkUjBqSkhFcUg5aVY5QjlLQ1VNVjdpNnRFeGstX0dIczc4WlMxNlcyUmE0Unpjd0tjbkJsRjM4UXFDTWtrSG5r?oc=5)**
+
+**3) [Achmea Investment Management B.V. Purchases 13,121 Shares of Adobe Inc. (NASDAQ:ADBE) - MarketBeat](https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1c1eEg1SkhQTTJEMjM2dWpiSjRYdmtuSTQ0eDdoa3gzUGtBU1lrS3AzSDYyZThUeG5fcGN1ajZxMk1kLWlPUjFJRl9KYXJkeElHMlVNQkN2V0dXZG9nempfbURnbFB3X21OUnUxbzFYQUJlZ1NCcGU5bGRQZFhHVVozNzZaX0xhSXkxM0FfMzdOcG5lTDNWYXRFRGNOYmZEQlV3TnFPZEZmaU9YVlhSZnlXMUpwclNIdGFDZXpYY0VIR0ZMZWdueWdKREQ?oc=5)**
+
+## 🔹 Ashtead Group PLC
+
+**1) [Ashtead Group slips Monday, underperforms market - MarketWatch](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU19aUXM5OW1oeWVjc3pBWVlsVzJiZDNzMzFMMERUVXZkSzY5MUFhcS10clpRXzNZZHp6dWxxcVNrQW5JN3l3ZEE4RzNTQjFGVnd0ZXFHYS1wd0FvT2JuOGxsSFhEYld5VXZzWG1RVWdJNG93aFA2Zm9kaEpDUkxaeHVBak9TZHNfUG5JRkpWYUh5U00tb25aRnQ2MEhyWnU4MmpJU29TSUpmS3M?oc=5)**
+
+**2) [Berenberg lowers target price on Ashtead Group - Vox Markets](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNIbEFvd0U3X21WbkFiSzNjYUF0aWpyWEZsc2pnb05nYUpDLUkyQ3I4VzkyN0tSVndLeWFhMUd3NmFjQjFHSjJPb1dXT2ROd0dYZjhGbTVXeDhOOGF1d3Zqc3V5OHE3YmNxOUNzRC1lcE4zZW9IX3J3Nm52alRMUkVjd3dGMHZTbmNyMHZVREh3ZDV6N3RsUQ?oc=5)**
+
+**3) [Broker tips: Centrica, Babcock, Ashtead - Sharecast News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORXJzdmZ5VUhSR1dEcU5OazQ5N09xQW84UEsxQW5vY055ZHZDUEd0OFF6ajFNcURYdmZDUW9iejZVN2djSzB2Z3JJRncyYkNOUm9DTnVuZENYdE1WWmU2aHZNeGE2aFV3MFRhNEk3M0Q3NFpyWFhlY1lQaFh0Y0gxWXY4ZlhQZ0didkw2UXk2UGlMSmVRd25rZ2E4ajVua3dHd0dFbDd6OHZxUQ?oc=5)**
+
+## 🔹 Arthur J Gallagher & Co
+
+**1) [Arthur J. Gallagher & Co.(NYSE: AJG) added to Russell Top 200 Value Index - MarketScreener](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRUpNWWE0UVhKQ3FORjAtdDIzZl82WHIxS0xLcVFfZDE1YjJQN3BTd0RmOVg3Z0hJYzlNdFNGbGV6YnIydU9KLW9qSkdJYk02bkhJZUFaZ1I3cHFNUHNON1pKdV9KYzdDTW1vNUlsajFvS2c2UTNaR3BCN3VqeUhnUHFHT3VHRzhYam93bFhMZ0lvWjlHc2ZNVGF2VS1ldFpwQURZUHlUQ0d4WGpyQ3FYM1h2ZFlhOEJscGNJNFc0QWhaRGlIMi1SZkFMZUlJTWNWQ29IWVVjWW1rQmdYX0RMOTl2TmYtMlV1?oc=5)**
+
+## 🔹 Advanced Micro Devices Inc
+
+**1) [Advanced Micro Devices (AMD) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEpvMUpvZWpnT3ZZU0NfeWYzYThWdWMtbU9VNXdJc283d1pPSEVNdWlBaGlQQ25fb2dZSjdhTWJ1bGxUU0l3a2NhLXRBRHVOaXRkdlhxOU0yMVROamZ0NEhrRTBfZDFIOEh5anNhLXcxZGQ3Z0hyWEVYYldkVFdUTFU1VU4?oc=5)**
+
+**2) [Advanced Micro Devices Inc (AMD)'s Winning Formula: Financial Metrics and Competitive Strengths - GuruFocus](https://news.google.com/rss/articles/CBMiygFBVV95cUxPWHo5cGoyUVphMUtjbUJYOVJlN3Z6dTBFR0JyTWFPS282a3ZUeHhyNHR1b3FTeE5CZVdsZDRaT19NeTFBaUd0TFVjRlhScmQxVkFYbHQyWVgzYkdsZnRVQkppZ0NuYkxXblhtS2wzSlVObEllRm5GQkt3TEVrMjVVNGFKQzZ0LUpTblFYbklNZE1mNHJmMGRUbkEwWDhJSTd2RExHaDJSOHV3WFhsdWlqZ3F6dk81NU01aXFpVTZBOGZ5NlZZRWpncTlR?oc=5)**
+
+**3) [Advanced Micro Devices shares snapped six-session winning streak (NASDAQ:AMD) - Seeking Alpha](https://news.google.com/rss/articles/CBMioAFBVV95cUxPMkxoTlpqc0NGR2ZGcnNYRWZnc29nT0U3alk1VW9sUTVyanJzNUs2VHg4di1jdW5GdFdOU3pNSU5uQ1RsUEVpazM3MzU5UWlTckdFc1paRG9xN3BHMlduWVUxczdTWjJuTU9NQlJaRjFQUmQtUnRXMHNENm5NclRtZDR4QWtWcld2N2hsMDZwNnlTdFVlLVFUU1BoaDJpWlN2?oc=5)**
+
+## 🔹 Ameriprise Financial Inc
+
+**1) [Ameriprise Financial Inc. stock outperforms competitors on strong trading day - MarketWatch](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakR1UFc4SF9MSkMtVUdmUHRtLS1WLWRLeDRBX2xYamJXSm1MYkEyOXVaaTQtVjJTNlJ0OXd1bkc3ZW16UWtpLW96Mm85aEl3bHlTSHpjVkNmdmVtRjZRTktDX2ZpNjJaS3prNnNQQWpEQTJhcjB3Tm12cU00ODlUem5UUnRRbFVOcEJGSTVObmhfMGlWQ0dOOXFOd3RaUnJZVE5fbTVfMWluYmJnYlJoRk9pUWZXbUFTMWkzM0FybFVyU0VWa0d1bFdvMmp5TEpxVUE?oc=5)**
+
+**2) [Ameriprise Financial : A Remarkable Finish To A Remarkably Volatile Quarter - MarketScreener](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmdNbzlnaExsbkxQZ0hqWnpxVThBU19NNHVUN0FxODREc1FQd1Z5djVvQU1HMTlfSWNtendKd2xpTXluMU52UjJFVFFrRUZBaGEzamZMRV9jclBDSEJNWWw1UWdiRk5QOGs2bXBvY3ZaY3NTU0F1UWNBdGwtSXlZb0xJZHZwT3l3Q2p6WnIxelVCeW9VcHduY204OE4tNWhhazItMkhlekVkYUl5OHh0Ry1RTWFiQUhJUDNsNGptcEowdHhlSmx1SmhWWlM4YWVnYll5UmtOUmlIUlMyRzRXcXZ0THhYNGJCR2J1ay1md24tc0VU?oc=5)**
+
+## 🔹 Amadeus IT Group SA
+
+**1) [Those who invested in Amadeus IT Group (BME:AMS) five years ago are up 50% - simplywall.st](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSS1zM2hYOU5zY3g4SmNod2FYSW1US25YelpqTmIzSEE2VTRwaWZyMGttRXRjZDgwQ1hwUG9DUlNnZFlqXzAyZHNmR2o4NHMyRjJJckFubktQd0luV29RTm5zTTdKVmNFX1FyOVF4aW11WmI5eVJTU2lMZUI3akZXZ3l0QjBRT3hHbVgyVTdTMXR2dzdnREZuNnVDNzFtbUZ0LU11bURpeWVfcTQyY1g4ODVvN3JnS3N1UDBhZjJna1RNZ0t6TWpzZ0pobm1aSHprdHVtSlh2azVmZ3drZDhQONIB5gFBVV95cUxPN3FCbEdyQzVMdW5pTk52b1E3QlNYbWZ6Ujc4eVVZdlVPTm5VTENjSVF4ZkVueG9fbnpjd3lHQTBndzI1TGxlRmo1SFdIZFJVbDdyZzJJbGszTk1jTk41Y2g5RXJyb1dpMlN0V2FnamJsZThrU0JPYTBoOUw0YV9Wd3RULXpSOV9PcXBScXlKR2VXd1FpNmZWVGQzV2daSlBoVjFtU2N1OHZhdlJFLUhxa2w4X3BTeGpKMTdmTXNOd0hOeVBmZ2F3TnY4N2Y1X3hhREFJZjJqUUlMNU5pX0tvTlNDd0Rzdw?oc=5)**
+
+## 🔹 Amazon.com Inc
+
+**1) [Amazon.com, Inc. (AMZN) To Expand Prime Delivery Services To Over 4,000 Smaller Cities, Towns, and Rural Areas - Yahoo Finance](https://news.google.com/rss/articles/CBMifEFVX3lxTE9jMEwtZm9OLTV0XzZuYWxHdXZoV2thOWNUMUhBSnpjWm5oeDFqTXRUSTlOR1B4N05yVTJVYWZNMjAtVjhXUU13SkR0LTVnRThCbmUwS1REVWFoaFR5NV9UcU9JaTN3UWVDZ0F5Q0hDanI5UkFIcW5TbU1KS3M?oc=5)**
+
+**2) [Key VP Exits Amazon.com, Inc. (AMZN) As Tech Talent Competition Intensifies - MSN](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTVGY0dFSTh4T1paeDQxSTBJcXpodk1tb1B5dHJaRzZ5WjNVb3JaNVBsZ2pOSXBMVjNfYUZXcEpkZkJ6VF9KWFBNc29DdWluekdYc2F4ZUd5RzF5bXJxYlNaRGdsRGQ1LXJTaHYtMW8tWnU4LWxBcEtPeEFUNnZLWTRtamZOeHYtQnRMcEtpX2xGa2tpYjk5Skd4QXB1LTZDYXV2cXcxSFVzZlpkUGpla0xwZGxKS2R0MU5IbnhOQWw3WTQ?oc=5)**
+
+**3) [Amazon.com, Inc.(NasdaqGS: AMZN) added to Russell 3000 Value Index - MarketScreener](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV3FnaWtSUnhFRmF0emxPT2F0SWVjV2FvNG9tX3l6MldQZWQ2QjBaUmgyTmV3MVd0amFXbDVNbHlKQ3RjdnRBbi10a0pzcDJOQ1J0X1hvSnNWUGN5QmEtVzliZnNxNnlLRjFKdkhzLVI5THNDdm5XX1ZWaTg1VEdGZFUtTlhJTWpWOUM5aEdzWU1zUU40empIS2Q2M0tleUNJZ3BXUzZyM3BMdTV4WE1LeGRjUld5RFFRcThsQmNLOWs3M3FkUEtsQUVEcmN4QWNwWDREOWltb2pLejJv?oc=5)**
+
+## 🔹 Aon PLC
+
+**1) [Board of the Pension Protection Fund Makes New Investment in Aon plc (NYSE:AON) - MarketBeat](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenpKVWNoQVE5V0N3NFRZdzNIaVRtUUZ3bXYyRUxQaTN0bVRfcC02cFVubVg0dnJ4UGkwUjAwN2o3SzE0OFExcWluQXM5cDBSWlRyaWFmdlFUUG1Nb20yUVdadldLaktrWjZsZVFISWh5b0R5ZnJROGRjczRCU2FkRTZiN3JMNUY0Y1RkQzVEQ2RTT0g0eDBaYk4yclNxQWF6R3g4TjB6QXoyT3VrUDdRSE9PMjBnclBtQXJaQ3RYSmRpaGctdXgtZFFLQkZWNVhPdkttenRwQVNQYnFI?oc=5)**
+
+**2) [Added reinsurance capacity easily handles higher demand: Aon report - businessinsurance.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmR2LVh1cHlNQlVLcnkyMXY4ZFIzaFd6Q2pjN1A2ZzRKTDJfeFdKaWhMSVA4ZnVCV05NV3lHbGJ3d0xlM2NXWndCZ1hsRjFham1CeVlUcnk2OVFSdDdCd2xHbTNoZXhmampGWW5TMXRRVFd1c0tfRWN1SnNEWmNTNTNYR05VLTA2Q0JLZmpzM2hOejBaVUk0bXNlRUxZeXJjekZr?oc=5)**
+
+**3) [Aon plc(NYSE: AON) added to Russell 1000 Growth-Defensive Index - MarketScreener](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdGVCcDNLdUxSbUpNY2dmTGxOSnRwYVZMS3ZNQWpQUWhJY0xfM1FOU3pyV1JIMmFLcTlJSWo4a2J5NndFMy0yd1JTdUxtVmViYlQ1eHBYekVpUnZJYjdQa2JmaVd4S2NEa2wxQ0p3NnFnUC1GeXFpT2xNT1haZVVCT3czTnFiTDBNMm5mVHBwZWZjTk1MR1NQSXpaX2I1SXJHQzJMcDhOWHRNb1EwcXNJQ3RUTFlXQjg5eWxjNU1KWGZRTlhfRTdieHNpSFJRd3l2Wnc?oc=5)**
+
+## 🔹 ASM International NV
+
+**1) [ASM share buyback update June 23 – 27, 2025 - GlobeNewswire](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1NzMTg0aXpCb3BUOS10cVQ5T1JLWHZJUXhrZHM1WEhZZGpEalItQ2dQTFdBZ1NSVVNmaDd6WEwyUU01eUNlNjQ5WDFVcjlicTV4ajJRTWlHM3FFOTJZLWU0aUFhU0o4MERSNkJoUF9LOHdKMjNMYmRiLVdQdzFsNDRzeWVGYnB1c19LQUxTMmlrcHhOVlRkN3B2N3hSX3JOOXpLSHN1VXl2anlxV1V2TG5B?oc=5)**
+
+## 🔹 ASML Holding NV
+
+**1) [Jefferies Downgrades ASML Holding N.V. (ASML) Stock to Hold - Insider Monkey](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVRCUndnXy02a3JuTHhIZl8zbXNWQTZrazhncnJTemZDN1poUFlCS1ZvWGpkbjVfeE5lNXVSQ2sxYmNHLTBkQVJobzRWS2RhVWgyN09HOFlWazBabV8yZVRrV3JIWXphdTRTdlM5Zkgxck13UHBIUFdwRDN5blMyem5pcS16MkZaeHJ5MG5TVFA2MDJXLU1OYzJnZnFmVW9wUFHSAaoBQVVfeXFMTzNTWFNURU00R2drbzgwTW9CS3J2WTBuc2dIbWlyUkRxNzM5NUtzUlFzY29XVHlJdEt3Y2RvNWYteHBUQU5OcVFvTmhWWC1BVmp0aWhRbkpQOUZlSE1uUWNORWloRXQyaXljV3BzTVQ3VFh5akhhTW16TDM4R1RvTWhaOXpLRGlBU3NaWVAyVlZKZDJ0dFYtd0lDVmZjNS14RDBwdzJjdGpYeWc?oc=5)**
+
+**2) [Should You Invest in ASML Holding NV (ASML)? - MSN](https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWs5UTNtenlvZ3NCSTM2V2FjSXM5UGxaVzZwWTRrVG8yWG5BMzJXMV8wN3VsaXpLNjljOXpRV0FiQ3NoMXJDdUYxVkxidzhoTGhKOGRDaDVTZlpSdHZzbmwxQVFjSWVoSmtuNlJrZUhDZU5CeVVyQjdHT3FENzdTblYzSDZmaG9GS0dFaENNel9MTFdsNVJsNzBCVEl6MHEzQ3JDbGpna3FDSVYtN1BqTXFNelVKdXJpbHlNVTFR?oc=5)**
+
+**3) [ASML's High-NA Progress Amazes: Can Early Trials Turn to Mass Demand? - TradingView](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjMwc3lsa3RiVkhHWlhTWlpSRVg5UTM1Rm1rQVdMbzU2STJ4MXJ4eFdoMHZINGJtMThyNXpoSjI4eDZrWi03RVY5RGtxdG9Zd1RQOUJiSl8zby12ODBaNGR2Zl9vbS1nVUpQRXBGYnY4YncyV0JNTWV0dW13YlplaGZZTUZsODhWdWhMQ1VfZEpvbkhzQ0dtXzVYWm9Na1dxdzF3RnlldGdtLVd5VWRUSDBwbXo0ZnF2V21pWnZmT1U?oc=5)**
+
+## 🔹 American Express Co
+
+**1) [Veteran fund manager makes bold move on Costco, American Express - TheStreet](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1VmQlNNX0dELVNnb2UwamlJdDJFYkNod1F4endnT1RCa0ZRVkx3RnhMRHJXcEYwZFhsU2pIYWlHWDU2WmNhaUhBQlUxTjJWV3lJZTM2YWZtbll2UlBIZUhCdzNzRGhLNHZETFRfQXIwZ3ZfeEFyeDg3TjBiai10VEphTzhwdEVDTzQtSFJBWXZOdm1NVnI5ODlUUE5BQWVl?oc=5)**
+
+**2) [Sabal Trust CO Invests $220,000 in American Express Company (NYSE:AXP) - MarketBeat](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWd1YjVXWjItNU0zeW1FcHVBUGR2QllFaDVrakhoU1JNZ0FjTXZtWm9Fdk1tTmdHR3luYTJSOV92MWk5SGFHRnhNOGhQLWY3VmE0MmxTa2hVNzlsTGFHZFdoOHpwQ2EwSnN6aHl4MjdNYTZkS0hYWTJxRFg1ZUg2bDNFUEdmSVhSSWVjQXZnd2tLZW9wU3N0b2cwYmQ0dFAyT09jRUM0QUk4d1JLYnA0T1RsVFNMR0ZZYklzX2ZjSEFUcGNOSDQ4c3ljR3hiZnpU?oc=5)**
+
+**3) [The Amex Gold Isn’t Technically a Travel Card — But It’s Still My Favorite - Upgraded Points](https://news.google.com/rss/articles/CBMickFVX3lxTFBLRWt1LWo0TERxWVNzdkIyWFlqeng3NGVOc212NXI1Y1ZhQW5zdUtBZk9QM0VKZnNSeEphV2ZPMDNtSTVfSzY5VEdhR3pDdHhmQXp5OGFaaG9uby1RRGZUY0NtcGE1Qk02TjZ3bjlNTVNXZw?oc=5)**
+
+## 🔹 Alibaba Group Holding Ltd
+
+**1) [Alibaba Group Holding Limited (NYSE:BABA) Stock Position Reduced by Waverton Investment Management Ltd - MarketBeat](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRTBqU1l0S3BRY2FXcXdzTFdIV2hSUFZUWkliWlFSLWV4LXRRX0lHdEdHNC1QZ0M1bGgydU0zWnFyZ0dMSWFvR0ZpTWJhNTFNTUxpcFo1dlR3ay15RVA4X1hZNDdsVWxtdVlfUXo5d2l1VEt5N2RnRVFlV1YzN3F5emhnWDM2blFfek5iZ1d2TFh4ajhCdTFzbzQ3a3FoMllON2JVbEJpam9hSXYwM0I3dUY4RHRQRWdZbWdKM3VoOW01Y1BEYjFYQ3otUU1NSGpUcmdTTXY0S0xrbHpqZlFodHJlU2FIdFpoV1liWQ?oc=5)**
+
+**2) [Alibaba Group Holding Limited (NYSE:BABA) Shares Bought by Mirae Asset Global Investments Co. Ltd. - MarketBeat](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMjg4UTZnRElFSm5TQ0poVF9IcUhrckFUdW5ZYy1CUXhpUHgxMTg5MEUzN3ZSVVFHMllHS1dyNTIxbXplZVppdkpibHE0UTdqX1R1MHVBWG1qS3FEM3VKWHFYUnJTX1NHLUh4N1QyT0dHLS1fc1R5UEt1TE9Mbm9wSUQ1ZlZCMG81aFBOWkRlRmg4c2RPVDd4d3JMbGpvdjBYN0hHMmhoWGxaUnJwZDkzeGpxVENIdkdBMnNCcDd1SlJwV3RUSTVXdVE0WkRRQmRHV3BBYWVpVnd2Y1Mydko5QlRGaTBMd2tBdWRHLXdHYzBYRWNnWFlBeQ?oc=5)**
+
+**3) [Henry James International Management Inc. Raises Stock Position in Alibaba Group Holding Limited (NYSE:BABA) - MarketBeat](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVHdBbThsLWt2MnFpd1htUEJKOW5yYjhyQTQ1MWtVU1BlbGk5dmRZd0dldlFyZUMzVzRoQ0Nyb2ZPLS1rTmdnV3lPdjlCeF9IUm5JemFpSUxmR0t1U0JKVy00WXFqS2lDdTNvNlZxMjMxZEJwNUxzQVc3MVpTbXBmSzFEN2NVZF9vbVA3d1JBdXZFQjk4UmZxME9QNmlPTDY2ZG1tYzNVM0N4Y2RBdzZhV3dxU1BfSFZMTjY5R1NMYWE3cDA1bWJCTkdncnpFX0haY2tEZEk3by1xcVkzcTB3WTVad3RURGllSEdRVF9MNTQ?oc=5)**
+
+## 🔹 BE Semiconductor Industries NV
+
+**1) [Contrasting BE Semiconductor Industries (OTCMKTS:BESIY) & Veeco Instruments (NASDAQ:VECO) - Defense World](https://news.google.com/rss/articles/CBMixAFBVV95cUxObTVxbTlnbGVDWHpwZm5Oa0tQSjNBS0s2TkY1TkVkME4zb0pNOW1NeDR5aVhyN1pxWnl1MW1EV0JhSUc5QWI0cGc4NlhIZm9sX3JwZHVtMk5QWmNOY3pBVUtfSjBzMTBGblNDUHJfQmMxeHM3bnJMbXY2Qy1qdktHM3JxNkxfMi1menc3QnZNVmROWDhoZVVZUmJvVUNNTU5vdzNMa2Z2d3FDeE9CNjktTVVPcFJzcTBPRXg0QkRNOWZvMGVa?oc=5)**
+
+## 🔹 Booking Holdings Inc
+
+**1) [Top Research Reports for Meta Platforms, ServiceNow & Booking - Nasdaq](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVndtQmxhSWtLd0JkMEhubTJRTC15RmRSSGhoeG53MHo5dXNIcUlaeFlTV21VcUpOcUgxVmJhaFZ4UkVVTEwwMm5odnZCYlplOXBnMWExMzVseDltc0xGV0hldzFua1lHaThOdUpnaEZQQW9YR3FuQ2Z1a3B5UVJkT0praWMwVVVxbndUdGF0OA?oc=5)**
+
+**2) [Booking Holdings (BKNG) Stock Continues Powerful Climb, Highlighting a Phenomenal 255% Five-Year Gain - Daily Chhattisgarh News](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM0VLOE5UZm5iVldrRDdhc2s4b2pWWlFTT1MyT09iSXZKVzY1T0l6bjF4cmZpSjBHR2tYRGwyN3EwMC1XWHVHV0hKQVBkellJMjJ3eHI0X1FMRlJTbENxekNDOHUzbW9Sc2ZsNlNSaWJma1VTYnVKYWczY1M3dlc0M1o5YkpoWXpOUnNZZE9xeTlaTHYtbDBWLTJNbjZHWWJzSHBNN09PaG9ya1g1NDVqWDJjMklHV0lMZTVTdzlpUUwyQVlTQUJTdFh3aHNnUHFFTUV0dmlraGJOUE0?oc=5)**
+
+**3) [Asia's Micro-Travel Revolution: How Short-Term Stays Are Reshaping Hospitality Investment - AInvest](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTZLNDgxRzVlTU54U3JwS04xbEp4LWNQYUNtTFN2SkZhUmg0N2hTTWNKMDF0X0NBR3pqUkNYQmJtS3BzdDEzQXZOenZSdldfZ1ZSZWpvZHZhNk5hUjdnXzFfbGFMRHZjbWk0eE50cVdDY250TUE4ZnRTa1JMS0JIY3JEczQ1bHI5T1pOSlpMUFY0b2g5SFFUc2Z5elpGdXRQRHBPVEFyc1ZHMEN2dmQ0aTBmWQ?oc=5)**
+
+## 🔹 Blackrock Inc
+
+**1) [BlackRock to Report Second Quarter 2025 Earnings on July 15th - Business Wire](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHNPcjhqZFhnc0VadWZtN0U2UlBxRHRGN2FKTUluZWJuR0gzSkZfN281ZjJ4NkV2M1Z2YXZlWXBOVGRWVlBFRUVEZFplbHNSWHN6SkozM2V3SlA0dWdlcWFvRmh6N1JESE5lT3dNUUJaSTAtS0RzQ3VPYVVWNkZUNVh3XzVDZUdIOUd4ZjFlNVpTX2ttc0lYd0VfVnQ2VGlkY3hlRk5scDJFNjBjMUZfSk8zVTZFbWlkMUE?oc=5)**
+
+**2) [Great Gray Trust Company to Collaborate With BlackRock - planadviser](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTVGZjNabzkzc0hIMFBrRlRjLTBxM3hOVmtONWZtSXJYOE03VDl0cXI1NGdyNlV1MmpPeE8tNFlZVFpYeTF0UXNSdGhzYUxBSldmbnlQcEdncFc0WFF0NUx1d2hSX0xxZklON2dzR3lCYUtoUnlhNEN1WlAwRk9XMw?oc=5)**
+
+**3) [BlackRock’s Rieder Would Rather Buy Stocks Than Long-Dated Debt - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMVk5MzZpWnRxVExIWVJ1d3NleXJNZTFGSFdkbHhkR3ZkbmJxSkhaemZrMnVuUWZiUkZndFBNVWV6aUVidmlwM0s2RUpPTmh3eklfSm5WeGdjWWkwMnhDUHJQWDJTNVAtT1NxeWctNkJ3SnJLeDhORnBJY0pCRFZobl9yWGJpOXdrZ25Kb3FWSHBPMnJueWFUNXBLemlFY3ZQM29CU294dFRvQWlBM2pCMmRsV1g?oc=5)**
+
+## 🔹 Brenntag SE
+
+**1) [Brenntag SE: Initiation of Coverage- Defying Inflation with Game-Changing Cost Discipline! - Smartkarma](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGk0WTNjWktLN0dRNlRrVFN1YjIxbW84S0NSOFhIZjB4U2wwZG1qYmpMSElQQ18wVkRSall5LXRxOE80NG9FUEhlSnU2WktZRVFXSTRTbUpfUktGcUJsdktrbjRFNHBPMDl1Qm1aX3RBNFpKM3FtMVZ0eFc2NGpBVzY5Q3djOFVuZnpfb2lsZWpPc1NNdm42eDJTdmhXSXk4dmUwOEQ0V2Q1cE95Qnc5Z2lDc3RrbVNpNm41cXVKWVQ?oc=5)**
+
+## 🔹 Berkshire Hathaway Inc
+
+**1) [Billionaire Warren Buffett Sold 39% of Berkshire's Stake in Bank of America and Is Piling Into a Historically Cheap Legal Monopoly - Yahoo Finance](https://news.google.com/rss/articles/CBMihwFBVV95cUxOemRVOGdRVnhJckV6VlREX29uaVVoTm5Jd1U5R0I3bktKVWtsQWFnandweUJ3b0I4ZDhYaFNoWjhLRHhCaTRlNlRqVXdCcWFMUmxrZWdkRG1UTVhrQnZzeDJZTy1nWVhwN2w5eVdtMHBlR0M3R0dmSjFBS0dtbU96RnY2amdKaE0?oc=5)**
+
+**2) [The Zacks Analyst Blog Highlights Berkshire Hathaway, Netflix, Toyota Motor, Crimson Wine and Cemtrex - TradingView](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFkwWnY5NDIxc0l4SDUzRE00TmhXQVZURG9IN1NTSF9Xc3FOT0ZqLVdaN3FBeGRoUjJibksyY3hZeXNyVXAxejdhdDNvS05leE5mRS01T21oXzFnVDVZcDlTWXJweEVSOTh1eGlPbmlkdWpyWEhRYWVOcE1OWnJsZjdsLUtrNFJaSzZSbGVKMmFHV1JNYmkwdjZJSHpGQU5CVFpJVmk0UTNLUFJLTGJ0TG01SmZ4MGpjQUIxSVhlSGZvTWlnb0tfZDlyY2YwTm95MHRZZ19aZDlrMHB2OWptbUZ4eGJBMWpkdGc?oc=5)**
+
+**3) [Can Berkshire Hathaway's Railroad Subsidiary Power its Growth? - The Globe and Mail](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWxQM1RJVkJRbjkxc3djR2QzMHk2X2Z5ZlIzRk8weVdQRkxWVEhXa3g2VGRHTE83ZGEwbEFzdkcyd0Ffb1FDLWtkZFBScGRGaGhxODdsbDJtalQtaVg4cHBjdkgzY21IRTRsM19GX0tabmJGd1RHZy1MU3JWcTVka0UxZTZBNUl6ZTFrbHB2M2pmcEczZWQ3NTRyS1NHRl9BeDJBaTVkUWd5Z1hHbDFqak1laGl5RzJQM1BuRThad0ZUNEZROFE2aHZvbUYwTEZ1U1hGam1VOWxFNHg4X0paTE12UnU?oc=5)**
+
+## 🔹 Burford Capital Ltd
+
+**1) [Ruling keeps litigation funder Burford in control of turkey price-fixing case - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVdMaXJVX1M3WVBFV1hiSURjRWEyYUVrbkZ2UWUyMVhoTkkyM19Rdm5mSU9uVEU1U2VCVkFvYWVnZmhyRDNralprd0hudFo4S0VQeW1KSGJ2Z3E0emlHdUZGdmp2b253UEExeUNDMFpvWElNU1h2VUpvUFRvYmQwb0tNVWNDUTlXdHp6anBuc05femduOGxRYkVkaUhBanRFcmdieERJZGs0T1dhdGIxSHp0V2JGd3FzbndBNnRoWE52dw?oc=5)**
+
+**2) [Burford Capital Ltd (BUR) Trading 3.85% Higher on Jun 30 - GuruFocus](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0xUQXA2UDdwNUZ1OFFzdHI0aWNSWHJFTFNOMi12eVhXQk9uT3JCNEZhcGZ5Y1J0ZktUNjQwQm1CZFhCb01GMGY3U1lISW1nZm04OTZ6eVJrdXFydjZ0ZnJtTTR3WjVSajJwT0lkTGtYeXBoZE9FdV82eTJPRERCQ2wxeHZnTmFkdUhNTWFPaHlRSWhydnc?oc=5)**
+
+**3) [REG - Burford Capital Ltd - Further Statement Re US Budget Reconciliation Bill - TradingView](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVUhKS1YzbzczUjBqQ1RYTDlJMVdXMTVjVlJHZGZzNlpyOWZEOU9HLWFzbVNqRTRGTld2MmI2U3ZtSnBtb2FqdFllVVh2TFJYMENnMm9SR0tPQmkyT2dfWXE5TDd3c2tfY0hKRXRKVndOTFZNQkZiYXJvQU1jeFlYSVY3VDFlNk5uRHZwZlJMZW16dDZvRUZCS1lzeEhJUHdfdzVVV3ZQVFRNejNYY2Vkd2swdHhTeWhKNnE3QlVpcnc0YlpCaUFXZGdaLVlINVJDVmYzVXRmVUkwWm9rWW9zbm05emU?oc=5)**
+
+## 🔹 CF Industries Holdings Inc
+
+**1) [Here's Why CF Industries (CF) is a Strong Momentum Stock - Yahoo Finance](https://news.google.com/rss/articles/CBMifEFVX3lxTE4wRC1Sd3A2dC1pQzZRSmtfTXNzcU0xSjcwakZUdEszaDFydDR0djBoY09UUkZNZFhpY05rQVZtRDhhX2pmczFWemduX092Q1ZkRkV3YUxub3hEZ3VZNEMzWm1KZkh6Nm9NNklzX1Q0eE9SQjlIbGtRazc4UDU?oc=5)**
+
+**2) [CF Industries Holdings, Inc. (NYSE:CF) Stock Holdings Raised by Mirae Asset Global Investments Co. Ltd. - MarketBeat](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMTZNeUo5MGtwcXF3RGl3Zl9kQzdnRWwtNGR1NUQ2Z1E4Y204TEgyWjdvdDcyZ19zZlJORE1WQWJCUFZuZloxbU5uQVNmMnNpcUphS1hSZE1sbFNvUXM0Qno4LTk3anJvNlk0Wk1Fak9NWEZQeHZVV3pfSDV5QnlRU0hJOElkalc0Si13MUsweVlFcklhc0xVTjEyV0VJdmJ2VGo1Y2hSWmlyNGVsN0hXc1p6ZU5ZWmRlbWUtQ1BEMkRxbDgyR3E1MUxabF9SVVRTNlBWTmlVMW9GRjl6NFVIV0lWYw?oc=5)**
+
+**3) [Here's Why CF Industries (CF) is a Strong Momentum Stock - Nasdaq](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDRfUkktenhTeGpYRGJYOHVfeEs0NXBmZ2FETmNXZEVCemFaWG5yMzh4Ylo2S1VMUEY0ZTk1dWRrMlBONHZhakFRWUN0X29tdG9iODNoZUpsQW5BNnZSa0ViTHIxSEgxYUJXNlFUaVlubXZ6VUtwX0g0aUcwdVA0bnJwWHR3YVhYcFE?oc=5)**
+
+## 🔹 Clarkson PLC
+
+**1) [UK Dividend Stocks To Watch In June 2025 - simplywall.st](https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3pRdGxhc2dpVndqb0FmdEh0LWFDWVhvaFpvbHBmOFp1WnFnOTQyWUYwd29fUU5fcEF5SzRwMHh1VnhpZ3FIRk0wc1p4a3lTNVhCSFktNmYzRThxN3FPemlpdnI0RUMwME9zVHBDR0VNSWhHSHd4WDRPdS1kQlNiQnZfSEd2MUY1QjBsdV9nN21uTzMwM1c4ZERoRUVreUtiZVdfLVVwZ1ZXUFduQjJXbnotUEx1TGfSAbwBQVVfeXFMT01UN29qRDhVd21HNVE5eXprRk8wNEhjN1picEZtaGZpUzVoWVkxUVlxdzJ5WEI3b05vMEcwWEFTaXRlZnh1TThVelpNaWJhZkxNVTNlSXlGWjlzWC1GN25CLXNhNlp6U0J1dUNCTmZtLXlOVEJfVmpVV2k1Slh2WDNSUFlFSXc2SHc3ZDFRc2VYNk1UTG1ySUJQZkV3U1pDVUlxWGE4RThrMWpYclozcnR4cGlhS0Q2Mm1FRVc?oc=5)**
+
+## 🔹 Canadian National Railway Co
+
+**1) [CN to Invest $50 Million in Louisiana to Build Capacity and Power Sustainable Growth - CN Rail](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWlVdnJ1bnpEelI4NHBJcXpqdl9HSHdMaXF3b0hfNk1mOThhZ1ZlUVQ2RTBjRF9SNV9VQVRCVDI5UGtmSVBMaHJaMlBCZE9NVlBMbThJb0tISEpGcFYxVV9RbzI0cnYzZzhYZVVFZEo0WE1vU3cwQWFHZ2pmbUtlMGJmamNxRmFZX0xNN2Q3WDBpQnA4d3hYVFEtWjdsVDNa?oc=5)**
+
+**2) [Grant from CN Railway boosts tree planting in River Forest - Wednesday Journal of Oak Park and River Forest](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHY1ZzRZYWR0bTBJckNQbVdSUVQ1cGxTMkNDYmZHWGRBRDdaSS1NMGQza2M2ekRMcnB0cHB3S0FTbi0xcFYtUkdBWnhWTUVqeGN0M0lVMHplX2dZY1VVTkVfU05OZjU4V21tVDdKREdKeU5uV0d3VTZtWS03Sjk5a0p4MTZTanhtcjhTSGhBQWxWWTA?oc=5)**
+
+**3) [CN to Report Second-Quarter 2025 Financial and Operating Results on July 22, 2025 - CN Rail](https://news.google.com/rss/articles/CBMinwFBVV95cUxPaVpDanJPV2tVSFZxSkFtQ1Y0NW96eWR3bUhPNDVWa3ZtVWJPM2JsMlZrVFpuQmVmRUd3MjBRUm5kekY5Qm95MXJyTjlQOXlhd0lRMkJ3QUxEb1dkR0dLU1U1aGRhY2ZtNnhURGptNjEyTzVmWDR0MG1vOXgxN0VRLU9aQ1BhbG9IMWtyS2Y5ejlfSk53REhpcVE3OVBDX2M?oc=5)**
+
+## 🔹 Salesforce Inc
+
+**1) [AI Accounting For Up To 50% Of Salesforce, Inc. (CRM)’s Workload, Says CEO - Yahoo Finance](https://news.google.com/rss/articles/CBMigwFBVV95cUxPb3V0eDdMUkNGSHZkVVNoSE5Jb0V0Z09kTlBLZ1FDYmJ5a0pteHN6QkNNVldsZUVQaEZMTThFcXNuRWc4aG1XZXN5cUhHX1BjYXpXYjhpTmlSTnExWU43Mi11N2tFN0gxbEEtNjRlRDA1aFlMTnl2RGJHd2pybXRJY2J6bw?oc=5)**
+
+**2) [Private Briefing: Salesforce Partners Attract Sponsors, Strategics - thedeal.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1B6SVhIbVVwM3dvQ2xsMGN4eWsyazZ3dzRhamVrRUpaZk5VcDUwMERBQ01rWl9GOFNqZDkwTTNTTWFUanRrbkRfVmRySklUOXNfamRWa3doVWhZUGZScHNtdXc5UGhjRmlnOHBGY2NkVFBWWTRQQ1Zkb1JQWjZubXBuMjZKUjBrdjVIZWtCRWRPODA5WWFnYkJxTEdLY0plRWRjUDNn?oc=5)**
+
+**3) [AI Accounting For Up To 50% Of Salesforce, Inc. (CRM)’s Workload, Says CEO - Insider Monkey](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmxFQU5qUUtVc0o2UXRDZXZPYzlEY1BSU1VIOG1lcU9KcVRpeGplZUpQWVhma0pCU29tNk01MTVlU21nUHlwaV9neWhtRHhZNEttcWd2b3F2YndKS295RUppS3FnV3Uwc285ak5JXzNabzJHSDNPb0Y2RUNDNnQ5RktKRS1VSzhhVFJWY0lUMmRMRDhsclNtd0ZkVFM0SEZEOFFaN3BZWmFGQnZvTW5v0gG4AUFVX3lxTE1KUGRNSlBrOHljUWVIaGJ4aENtZ3BNenY2VjBXX2hTY0JUaTVrRlNNMkpBMVV5dkVoWm1leWNfRmFmQzZ0MUZNUGVQdWh6OHFTRnBzZW43eXhFZGk4OXlDZ1lVY25BbWN4c2dZbXVPNC12Q3JGajk0a245Nl9xdk4zVDU4MktPM0xFdl9UMWNsRG1YR0pxbUFLaEMxdFBtQTExZWNPSmRWdzBRWjlNZ0I4TFBmaGh1QlQ?oc=5)**
+
+## 🔹 CSL Ltd
+
+**1) [CSL to build two tugs for Polestar Maritime Ltd - The New Indian Express](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzczWHJIRVJDcXlTdVVxZ1IwWlN6VEFfdzR5bWFfZHZ3M2Z6cWNESHVidG1JN2lhVjY3YVBnWTBGeVU4RVl1OFl5Slpqc3RmNlRjTEdyTjg5NHUtYWdvRFdOb09zSFBRVVVNTXpwU0ZRTGRYZGtoRGhnbWV4N0RDWEg4ZmNZcF91Yy1HbnFSR1lzbEwyV1AtWnFTd1R5QTI2YWdIWkNJQjLSAbYBQVVfeXFMUGVrVjRFV2lNNkdRYnU5cWRKQldxZnRSU29RNkhFMmNKOWhIZ0E0cGpKMy1xUXJ3WUlMZGxmNkNlRnh0bERBVVRzZ3pUay1OY3FHLWRPMmhCRHRBRDlUMFJEOWcwRVVveUhZdUFvanYwbWFyTEx5T1ZpVzZNMlF6SlI3TXI4SHdvRHhnck9xRFVBZDJHQmM4ZlV5NDhCb1UwWU9tN0ctcmgwZzlzV0lhVm10eU5Qd3c?oc=5)**
+
+**2) [Now trading at an ‘attractive price’, why CSL shares look set for a rebound - The Motley Fool Australia](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXpOVXhaZ1VoWHo0V251YU9MN0cyLXBESTBpX1hSQnNITmNZUnYxTnBTcTloT0Z3bE5sb3l3VmNPVE9KcVZFQjI1a3dqUEZZZzJPblZOVGhkejJ0clUyUDliNzNNU3BHMGxrRlNfblRpVkdYZUFVaW45MTFITGt1UE5xUmVUZWw4elRfdXA1VVdDTUV4VTlpSDdoVDZxeks5ejZZeF8wUWRvem1L?oc=5)**
+
+## 🔹 Elevance Health Inc
+
+**1) [ELV LAWSUIT DEADLINE: Suffer Losses on Elevance Health, - GlobeNewswire](https://news.google.com/rss/articles/CBMiuwJBVV95cUxQOVRTRFlxUVRCZ25TeEhGUTFiZkJfQjZrUkJBSWszdFJGZHZEMURsQ3ZmbklSQVctSm0zUDAzZW5vYWgzM0NKUnBxajB2LVd5Y0VtYUhBNmtnblRldXNyM0hMV19HcmRqcUhlTTE4N0ZESENBWWRwd2N0N3p5VnZ2SVBlMnJFWDU5Y21OcjVCaUVwcmx1eDAyMURRSmo4UWs3aUQ0SWVFb1kyRFhCaHpMMnZMRjJDbXEySEJwQ1p6U3prTHRqS2RtektQejlWNmpibEM2ZFQyX3R0eUktc2ttaS15UEZKWXVPbEVTSTJDeGVwdXNMbnJyMDNqeUE4eHI4VzNSYUVMb3I1TXZ6Q2x5VVlLdm5DV1BZUEU1dGNMVXVzQzVHWlZZMkVjcURtTUVoMFlJNnlPMjczSWs?oc=5)**
+
+**2) [MU Health Care and Anthem ‘have never been close’ to agreement, they tell Senate committee - Missouri Independent](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN1ZiSWE1dkFHRkNLam5heWRPcmRLN0xSdEdBYVVqSGlnTTBJN015VzJ2dFB3VHhLdlBNUmtPaDR0N19HMjN4MS1hR0ZfMUFpaXduSVNOVGo5OEtqMGZjZ2xtWVlhWWNEYmNkNlc4SGtGUGNVSUJSLVM4TkdaNVhPd2NmX0FFdFBERy10OG5lWHg5TnZiY3JINWxlcnFoaFNqN01XRnd4ZUxGN1JhNnptVTF1RV9JUzl2ZDFiSmg5b1BLUDlEWjVXazhMUQ?oc=5)**
+
+**3) [Elevance Health, Inc.(NYSE: ELV) dropped from Russell 3000E Growth Index - MarketScreener](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZ3NoSWN6cDZCSVBoWm40OVJ6dzB2clNPSDZmRmE4LXBLMG9jTG9aYzdBTThmQmlJaV85YzlxZDNSOS1EOUxodENPR2RybTM4NnNUMU5QT1h3WjYybERUcHN3dllNSVBEMzUzVXZudmY0OU1MVWlGM0tMbU14QUZjb1FWaXczM013Q0tkQkVvempKTTg4aFdGZHVHSTlGZlVSS3I0YmlGXzJKWEVwSXROazNKcGhzTk1NMkdlMlRKMFo3S2dGMkl1eFVlQ3pnZXVUWGgyY3c0empiQ001eXJnQWhoc1k3N1BPazd3?oc=5)**
+
+## 🔹 Euronext NV
+
+**1) [ASM share buyback update June 23 – 27, 2025 - GlobeNewswire](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1NzMTg0aXpCb3BUOS10cVQ5T1JLWHZJUXhrZHM1WEhZZGpEalItQ2dQTFdBZ1NSVVNmaDd6WEwyUU01eUNlNjQ5WDFVcjlicTV4ajJRTWlHM3FFOTJZLWU0aUFhU0o4MERSNkJoUF9LOHdKMjNMYmRiLVdQdzFsNDRzeWVGYnB1c19LQUxTMmlrcHhOVlRkN3B2N3hSX3JOOXpLSHN1VXl2anlxV1V2TG5B?oc=5)**
+
+**2) [REG-Heineken Holding N.V. reports transactions under its current share buyback programme - TradingView](https://news.google.com/rss/articles/CBMi9gFBVV95cUxObk1aXzc0VTdPZmNsdWRwZ2o2V3ZrZTdyLWMyeTBNUnpGLXFpVl9yU1BlU1diNnE0RXlUejZlUHFvRVpoRXRkNHFzUExVVFdTMWxhbGZQZ2x4ZkNTVkJnYzRCTF9Bc0lLcnQ4MHJpVWdGYnZ4bnlTRlFVUUV2WkFwczk2ZUcxVUo4dlhJenpuTWhEcW5PdEl6LVh2UkppWFAwWVdlMHZ3d1lFTG9PWmY4ZU9QOWJ6SmtMendxQWNKUTdIVmFuNmx3VlFsU1Y1VzFJbllNejFGYnpzR1BPUWcwWUdGMDBqRkNVN0lsaU5FQkwtZXNyZFE?oc=5)**
+
+**3) [Heineken N.V. reports the progress of transactions under its current share buyback programme - GlobeNewswire](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTy0yeVBjYk1fOWNGbGhXT01zcHMxQWx5RHNGWG96YXJ3MEpnTTFVcGRvblkwbVF5N19JQ2NoRkN1cmkyb18tRG5DNUdHZFVUM3pieVNvRlBqRlNpVl91VnlJWjhVdERmRS0wRzBTREFzdWppVER2VGxoQ1p3TG1SekRXbi1aN2ZqbVdrWi1uWndsQzhVU0FTRFgxT3E5ckZQZmpWSjFqQUs1VjFRbHRjQm9kczFabnBPRXh5c3F2MTNoQnJxRFJFaTM3aWh1RUM0VGVJN2hkWXJWQUtZWUZoUjRaV2N6MVM1U2kyVS1KXzdKVEMzLXc?oc=5)**
+
+## 🔹 EPAM Systems Inc
+
+**1) [EPAM Systems, Inc.(NYSE: EPAM) added to Russell 2500 Value Index - MarketScreener](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDk2OXlYV1JFV2tyQkR0QXNRUVZfcW8zZWRYVnJUYW0xNDhGeFo0ZkROcG14VEJ1ZlRPdkF0MktyX0VCSFJ3Y2xhb3hoUTV5Q015WU55T2RDaG1mN0lDcVJkaFlzM1Y4TmpKLWQyUElBVzlIM3dSODZfdkRlS1ZyREZsYnBNN1VoQUswdFJRc091bjh6cEtxUHZqNktKZG5DUmh1UkxMWHdMZVJ0ZUY3QkRRVmFIdlBxdGQyM1VUQlB3eHpFZGVoRU5CenI0NThzVkRHUkRKSlZ0ZmM?oc=5)**
+
+**2) [EPAM Recognized as Top IT Service Vendor in UK & Ireland for Second Year in a Row - PR Newswire UK](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXZKTmNiTFI0OU9IV016RF9JS0FHa2pDcFBTMHd0eUlIZndoeDdIcGZlWUQ4blFQVWl1VFJTY05QWEJPWkR2ZUJoTWZRTHd1cmpDZGhSUWtaMDVpMVBhQzBSbHB1WTdwam9ZZDhkTkx0WVZQRm9iZUNjSXFYaEEtclhDVWk3VHktbG44aWVmVEZfVXY2b21uNGJYRVBnUlFYaWRkekduWjZYOWpnNDdTaldHVVl1Z2FYMG9XRi1EVDVuMjlvVXNrbjdTX2hXOVQyeHo3Mw?oc=5)**
+
+## 🔹 Fiserv Inc
+
+**1) [Fiserv, Inc.(NYSE: FI) added to Russell 1000 Dynamic Index - MarketScreener](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUF4V21YNmYtMVktc2JPZFJjMjdJSHdvaHRXX2VBVWlyWHhDUlFCa20zdnd4VFFVUFlwSzdnY2tQMmtBa29Da0tjc0pDeTdrUGgzUl9wUVBrT1NFS3Q2YS1GdUwzUDUydVRuZFcySm9kVklUVFVYa2doRzlXbmlNeW9YTmxPR3I5LXd1c2JXYjN0bVNHcW8yZm94ZUlFelZnNTY3SzhKQjRGVmRoc0hROS1sQ0RRNVh4T1FMRlg5d01Fa05pT2dV?oc=5)**
+
+**2) [Top 3 US stocks due for a comeback in the second half of 2025 - TradingView](https://news.google.com/rss/articles/CBMiugFBVV95cUxNV003RGwtSnNjVWVMNnhpbVh2d2JibFJ6VXA2VWhxcGRLZFpaSEhsLUpBRnNmM0RGZXVqdVBIQ0p3Z0pndWpyb0NqbExNZVpvc21aaXlZWWN3bGFkOVRiNUVZQkdVRnE2WFFkTGZ2VFB0bWJIak5uOXZuS1o5NkFmbW1JVWQ5UkxsLTRVa0hLSTh6Ujd4bXV2cS1zT29ON3hMWFl2S3A3a1dhcmtBbDVxVTJPaW5qZlpJanc?oc=5)**
+
+**3) [Paysafe Limited (PSFE) Announces Expanded Its Partnership with Fiserv (FI) - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxQRkpOZWppNjRXOEp6WG83UlJrRUw5dWdYZ2g2am9LSmRIUmpmMWx2bHk4MUsyNGc3OENucE5XWGlRX2FhTjVyc3Y2ek5sT1hMZjhGQU9STlVUMnVMVkRNNTE2bzNlSlNwbkZEN0NlREtLUDJBckl0dV9FdkZXWVhxV2p0eFhUY1BjZFJFZ1Zn?oc=5)**
+
+## 🔹 Genmab A/S
+
+**1) [Completion of Share Buy-back Program - GlobeNewswire](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkRmQm5zOXRTV1lGVkR6anBNMy01azZFYkJnbnJ2N0xXVHpEdFFvTncwNlZjVHRrVVNoblN0aGFHR0xHWmR5SDRBMlpwVW1fQmQ4akRBaFhLTUozeE1MRGprXzJKeU9JUkl6WC0wTVpXVHpVcGkwc1d4YkhqQVg5Sm4yVVkxYm4xQzhZOFBNVl93bG16a1lRRjBaOXU2eGNPUkI5ZWtZTm9WVXk1bG05SQ?oc=5)**
+
+**2) [Genmab completes share buy-back program, repurchases 2.2 million shares By Investing.com - Investing.com Australia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdERXd3htZDU5MWs1aGx6Qi1HcE1hNGMySlBaQWVPT2N3NGZGeTI0RThFWFdaQTJnYUVfRmRpMzJDOHZ5U1pQbWZrR3pOanNWcjhydXJXdFJpaFNyLVBkcEJCWTdkWkVPekhVUnNCTzFoM3hvMVVIbVQ4ZFZNdmRyOEs3NXVyRUUtUzVoNU5jV3FwTmRtdGE3bzFDc0paNWE4MVliT2ZXWmtUVE5yTlh3c1RXUzZSbEV6UTlOaWF2bTlyUQ?oc=5)**
+
+## 🔹 Alphabet Inc
+
+**1) [Pearson and Alphabet Inc. (GOOGL)’s Google Cloud Partner To Bring AI Learning Tools To Classrooms - Yahoo Finance](https://news.google.com/rss/articles/CBMihgFBVV95cUxPRmRNZnRuZUxqOUNTSXJaVkRyNjF1M0VNdnBBX2ZITHM1ZU95QmdWSkhaQ0h2N0h0UDIyR3BRU3otR1VOZUFhTkJWNndVaU1MU1dsQ1JUSXZydmxndzdzLVU1NkVjbUpkNjVRQ2owTzdUVm1HUnc1dGpUYlgxdlZYU0toNGVoQQ?oc=5)**
+
+**2) [Wall Street has mixed feelings about Alphabet. Here’s why that matters for its stock. - MarketWatch](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXVJSDJPdE1qZnFlclhTM2pxN3o3TnZNaG9DVlhRR05DclFaRnhBWjMtTm1YT09JbVVCYUdraFhla1hIaU5jUnJkMHdZYnd5VTlVb3RTTlBFUGVpczRvdU02ZlN4SnhNUmJzeklJbEp4NDlIN1N4S1RDS1AtaXRmUXRCOThqOEl3cmlWSXJlQkZ1MFlIQUxjQk50OHNENGRsa3lXTGJWa2Y5YzIxY3BTdERIbHU1cmx6UUpWc1JoaGt5M2s?oc=5)**
+
+**3) [Landmark EU tech rules holding back innovation, Google says - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTElIel9tc2kySWNXWHhYY09ZUldGLU1ueGZMQkVhdU5uQzh6ZUl5R3g4NS1FcjhjUTZiZFI2Y1JCWXk3SnM4NllXTWJlWkpWckNCa2tfel9zZ3A0OUpIVzlZQlloMk83cGxtZnNhc0ZONGs4WGtEZXpqa21hcU8wZVA2OHhVdTFYUEIwYWhrRURjWE5zaUVEMTRlbV9Zb2JhUEZjakRhSG11Z29UbEN5TGcwZ1ZRTFRoQnVrcTFNMHJMVHVWN0xfa3Bkcm0zcWc?oc=5)**
+
+## 🔹 HCA Healthcare Inc
+
+**1) [HCA Healthcare, Inc. 2nd Quarter 2025 Earnings Conference Call - Business Wire](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXdhUDZfeTBEUzIwaldXeWxIWGsySkFOR05RMDQwcV9RN25VVWJralJ2RHdVbXpWMXNuMEM4SVN4VUFrTTV0TkdPdFVTWmdTeThKTDhhcmlGQmZwLTF4RFE4NTFrRHlpVWJfdkxKRl9uTnIzaVN4bGN1Snk1QWRCQnhlSHhZenYxSkVwTngxZ2d0cVQycWFVV1lHeEk3TDIzSFk2T0lHYzJoRUVyTWJOV0N6X2JwSXJfenc?oc=5)**
+
+**2) [HCA Healthcare, Inc. 2nd Quarter 2025 Earnings Conference Call | HCA Stock News - GuruFocus](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEYyWHpmZWo2NnJRUGkwM21TWnZrQkExUXN6eGF4LUpMVkxHZ2pLWlVuOHJkQ2xHeUgtSnVwZnFSMWdrbHR2YnFqU2RvNzYyb201WmtzREx6a2FXdEhPTlB1N1ZGRnZtakVIbENlX3prZDhXVV91M0M1eFE1MTdQdzdOeE03VU1KVGg0T1hmRjEtTlIxcU90U21Ed00yQXgtZ3JBX2VjX2NJLVVNQVlsbm5CV0k?oc=5)**
+
+**3) [$100 Invested In HCA Healthcare 10 Years Ago Would Be Worth This Much Today - Benzinga](https://news.google.com/rss/articles/CBMixwFBVV95cUxNUTRWUmpBdFE5RXl2Z01HZGJDNF9qbEhVNWU2TjVZdVVMcjBCTmdSQ0VwRWtRQ01pX2FpWnNDVE4tYnNaYzJhVnJoZjA2b3E1MnYtR1dPRHk0TE9WVjZCV2ZDRWVxUllCUnlMSEd3c0ZsVkFzRktzRldDdnBDaXprejdtX2hCaFRyOGFJZ3BKZV83LTdoM3U1SG0yd0QtMGtpMGkzd1Z4UkVQcXh2Ym9VWlk0RTB5SzB5MGpmUkVBWE5ISllyTWxV?oc=5)**
+
+## 🔹 ICON PLC
+
+**1) [ICON Plc (ICLR) Stock Analysis: Unpacking The 21.20% Potential Upside - DirectorsTalk Interviews](https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjk5bnpEUFlUSUoxbTJ0SVM5S0d5dno3amNPOEtlQ0czVGJaQ1dGaHhfaGJEbDNqN0VIUGhFVEdiQ2dhcDJRZ0FIbFJfSkRVVGh5NHVDZFAwZDVRTkpnZ0tOMnJGaXIzbkVtUjZwbVFGRmpWcnBvSVB6NlJlZ1BiTktfaGhmQjJxMVNwaHBONC1TZkVfSnFnV3RBVk9xTW9IQkNYR1FrRWRqN2l1WEx4THRiV2tIeE0?oc=5)**
+
+## 🔹 IQVIA Holdings Inc
+
+**1) [IQVIA: A Fundamental Gem Shining Through Russell's Dust - AInvest](https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmIwZ1FKcFZpdVFHUHFoZFVnT1VZeXl3MXo5dl9pNHNHUmhKVTFLLTRWUEJ4amc3OXpSVDYtSktlRWhDQmRzS3duR1F0SU1yLW1paWhXN1dmS2lQcHZBMlRnYzBFRDZBZGFjN2VJVjluN3NFWm9GLVlHdTRLSGY4R3ZySQ?oc=5)**
+
+**2) [IQVIA Holdings Inc.(NYSE: IQV) dropped from Russell 1000 Growth Index - MarketScreener](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNekpDdndFeWVpNzJKUlhBY1RVQ0xScFFQbElkUm1IT0xMUFZOWHA1RUFWR3gtMC1JN0xfZHU2dnpHUFh4OThkcFJ0U3RsaEdTWUI2RWhNV002czRpZDhqcFlOcnFsUkFzczk3SzNuRFMzaVdiMks4Yy03dUgzVDdVcmFmaWZKLXh0ZmRaeVJubGpCY2xNd1V5UVFYV3pZSFo4NWRNYXAyU3V6bWdKMkJjLUx5T0ZWYnJySlF5VnZaTW5zaWptVXh3NmNtLVJ5NWVfQ21SaDUxVEpIT1FMbnFzTm5BZm5uUnM?oc=5)**
+
+**3) [We Think IQVIA Holdings (NYSE:IQV) Can Stay On Top Of Its Debt - simplywall.st](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVlNNkFVd1dpNlA1VWpWSVN0WDJHWVhNUndoaHhYT0dCX1VHWHV3Wi1tY3AtazBweGlVd1VWYzViUVl2eTZQYUh4aEswNS1WWlZibU1veWJzbXhka1FJOE5VWnd1MV9pZ1Z5ZzJ5TkVnWU9GZzVHSEFTbkJwaU9mUjVibTV6WFpOaHpPQ1RWMmViLXUyeEJITVlXTDIzTFNjY2xNaGd2ejBlVDlnWGhVcTJWRDdUQWg2cmpvZG5PdkxqODIxa0t6dmZUZnZxMllrakdBTWZ1TXlXQ05zX1NJ0gHkAUFVX3lxTE80aDUxU2pBYnZrWU0wOFZtNUxiVnF3a0lNNUgtSjFsZ09SRldWMDdOZW0zbldlNXU0MFlRRTFYVnVkaGZCenJNV29Ed0t4cHNfNXcwZnd1dE0xd3hjR3VHcEpneEVtWDVOdkVvbk50YWdqSXdtank0aGJjQ1RaU0dERTRnbHZyazZnWFhOcGN6VDZpUDI3OWJfdmtCMm5WZzRGM1VNel9uX01Za2ZWZlgzbTd6aTg5d3hhTF9pU3ViRnBtUWlINGpTcEROWnBCRW43RUMyeFo5dG5LOVRnMEE1VE1QWg?oc=5)**
+
+## 🔹 JD.com Inc
+
+**1) [JD.com, Inc. (JD) Stock Declines While Market Improves: Some Information for Investors - Nasdaq](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjBzVGI0aTVLQjMzNGhfbmg0U1duQWdRbXlVYXpaZVM4bDMtS19wdVRrX0JSdEpYU3FQemp6LW5QZFNDbzEzUnI5SUFnYkttclNpc0JhNEpMelJtTnlCc0R2U0k3TEx0X1NrcVhOMEcxTmd1NEhlT1dMUmhvdzVxMTZMd3N3M0FtTDViYmxlZnN4YW9GX2JQMkoxanNKQWtYbXlBVFZTNXNiT3BqbDNr?oc=5)**
+
+**2) [JD.com (NASDAQ:JD) Could Easily Take On More Debt - simplywall.st](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbl9lSF9uaEgwX1RCeEgxYTRpNHpabXN3dXo4RmpJUVFzQkthU2lDMnZ2bHp1QU1rMzJ1dGprTjNoaWg4Q1RDYTN1QW55QXUzRzgxNVlDdDdFNk11dXRkbXJfU1d5M3FNczd1LUgtVmgxOFBYZGtGTzJ5RmZrc2M3SlROTUhnXzhsRjlVRlYyNzJmVVdFOVQxbFFObzhDRGJ4THhZd1MzTnrSAa4BQVVfeXFMT2dPaWxzVHExelV0aVZlMjlZMTZKMUU1VFg4Vm5Ea1RNSUx4X2hKNEdOUUNFWE5oeUdsYUQzYTdXek9fbTQ5UDBmMlpLY2hxQzRxTmhyZEVadTZYclZoWEV3Zm04S3lzdDA0R1JsQmxvMksyM3QtRzhUSFlESmU4RmVqdnU0ekpoZWlMSUNvNkVZbDdvS0J6TnRTUDNCRmZDZGdtT3dJMFNuYVVaa09n?oc=5)**
+
+**3) [Spire Wealth Management Raises Stock Holdings in JD.com, Inc. (NASDAQ:JD) - MarketBeat](https://news.google.com/rss/articles/CBMixwFBVV95cUxQLV9ZWkUwcEpfZ0xWM080ZTF6M0VGMTVPeWptUGptSzAxWk1KaF9jMzlMNEd2dTlnb0I2MTlnMEhmQTVfbnFpc2J2d2xicE52R1FMaWN1SDVmdlU2eTI3VkRvUWhWZk1VckR6NU5FVUx3cjR5dzlFTzRZUTA2UXdfVVBPMDZDUDNPY3llbUpDc2x0R1dHWkZ5dVFKQkEwTmZhMDdXdkV1Z0xfSXVyMkdxV184Tk1URS1iRUdaVlJvSHVmd2Y4NUNr?oc=5)**
+
+## 🔹 Lowe's Cos Inc
+
+**1) [Diversified Trust Co Has $12.30 Million Holdings in Lowe's Companies, Inc. (NYSE:LOW) - MarketBeat](https://news.google.com/rss/articles/CBMixwFBVV95cUxONUtRd25YWmZaRjRsQkRSQ2ZGV212dHByOGIxXzhpMi1kaXBfZTBBZjFvSGN0UVlodlpDTlZxRWJKUXZNTXExY1dtSXRSal9QSzJsUl9XOXpyRmdZTGt4bmRUaHRKV25acUk1Y3lhY0hOSXZYNkNRQUVISkpadm9UT1QwaFZKcFVDVHpRN1VkNm1yM3RCSFBMNFRNX2dDM255dmsyRmlEZlFmT1ktNzZvMjFGcGlRNTlWOUN2WjVmZ3lia29VX2pN?oc=5)**
+
+**2) [Lowe's Companies, Inc.(NYSE: LOW) dropped from Russell 1000 Dynamic Index - MarketScreener](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNU0JqLXVyRG9uWDZJZEVxaEVrbS00amFkMU9pTWlnUGw0aWttaWIydEVsVVp6cm1BQmtGb2JXdUdFVm9KOGRGcmQ2ZTJIV0ViYV9MUjlsckdhTm1qT0laRlVEZEhCU216SnlYUFZSY0ZRMmRDZFhIblZ4MVRmYzJBanZhT0hKRDNTUzJCUE5leW8tUXo4c3psQmpaQkNhYzVfS3NxVkVQbzVJT1RydEhkakZfdGdpV2lHS012X255YTJ2bGh1U01PZlVQdGxTX0IwWFZSN1JvN2Vsb1VSSVA3MnJZZkRKd3B2ZlE?oc=5)**
+
+**3) [Achmea Investment Management B.V. Grows Stock Holdings in Lowe's Companies, Inc. (NYSE:LOW) - MarketBeat](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRXV4d0J0eEhYUnVRMnZlWlJGUUlkWU1COHRUdzZXRUo5bUhsU3ZVWXFiSjBiOURkTVc4ZW5SdmxOZGx1aHhzRWp5YjlZX1ZabFpydlcyTDMtbTlXeGdCbVdiSTBqMzRtX1pIOXBiQkh3THVac0Z2cDJLVTFSeUtxdFg4ZkVzQ1N2UEZidElzVEhHZW9KdjdSb2VtWFI4ZlAyUkhWOXlJcWkxa0prWl85empuSXNXLW16WEFZVXZpYThhTlJSaXlxMFZoMWYyS0xmenhjSTVBZ28yYzQ3cFlkZVFrQQ?oc=5)**
+
+## 🔹 Meta Platforms Inc
+
+**1) [Mark Zuckerberg Announces Meta ‘Superintelligence’ Effort, More Hires - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWVtWWFZZzZxYjVxYm9PVXM0QkZMbDF3WGU5UTEyb0VwTWhCUGNLbTV4ZHZ2RnB6d3ZIaDZyYzZuMGtFOTRReEQ1VGtCYWxESVN0TERuenZRUm9SS29YRUhHSFpjcGVENVQ5STB2Q1AzMWFTaVVwRjVpOXF0TzBacWZhUnVSRVRjS09zRm9XOGU2S2R5YWQ0bTFwZ1FZZi01bjhEc1hhSTl3bWVQTnlQVWpR?oc=5)**
+
+**2) [Meta Platforms, Inc. (META) Holds Talks To Acquire Runway, PlayAI in Latest AI Push - Yahoo Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzNWdDJBWVZTOGZGOUs4b0JEX0hIZWxpYWZkWUFqTGkxVUNyREs0ODJrRWM1NjJBYnVfc2NvdUFXc200WGFHUS1oQUlkeTI3dG5pdFU1VUc5dFptbTFhdmFJb3NNZlBpR3RRQ2g2Mmt4aHpQbnc3TVFaNWd3QVIxaw?oc=5)**
+
+**3) [UBS Raises PT on Meta Platforms (META) Stock, Maintains Buy - Yahoo Finance](https://news.google.com/rss/articles/CBMif0FVX3lxTE5pRG12Vm5hNE1oeGRpMEoyQW1XYnlNbEw5aFdfcHo5VnRzLUlZb0Q2RmJWeFp2V0lnRkFqMkVtQ0gyd0Z4d28yblRkaHNWOHVuYWh0NUxKTGIyT2tzRWg0TzBpZkVyY3liZkRhd3R5WTBKY2wwUkJzUmctQ1ZkZ1k?oc=5)**
+
+## 🔹 MarketAxess Holdings Inc
+
+**1) [7,481 Shares in MarketAxess Holdings Inc. (NASDAQ:MKTX) Acquired by Achmea Investment Management B.V. - MarketBeat](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbW5IUkNQazhPRkM2MFV1NlhJVWhzVzltTHI0YjdQWU9OMks0bnF0RHR5aTYzT1B5TkZHMGxvTnFKTkhYc1NzM0JRZ3FRbGFiYzl0LS13MzdLX2FrQ2hYLVhuQVBqRHNZLUlkbi12c1VhMi1GZjdOV0toNXhCMUxFUDdjQVBDdHJBWlZmSmhRQ19uUXNYNVhHSHcxTC1fSmY1bVlKOGlSeHNUQmZVZUYxSk55UUNUNG02RmNud0J2WUtIVE5uMjRyOXlydnBMZWFhT09uYUtfMkJWU0FrODdXV0hHX2M1TWc?oc=5)**
+
+**2) [Lecap Asset Management Ltd. Has $1.19 Million Stock Position in MarketAxess Holdings Inc. (NASDAQ:MKTX) - MarketBeat](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUVJS0tHZDZya0laNFBGUFRFbWl5WUxVQ0tPa1lIZEY2ODdDSmJmWmp6a21CQkEtSVpWVXJhV2REaXdVQWgxRWdOTTlsVFJNV0pYeDdDbU8wYkp3VkNHbGVRNHlOS2tYNFJ1YkNIeUVhQUdHUTR0OHRpWWRRWE55Q1ZjMHJLbjluQkw3UnFrZ3dDdmVTZTFjSndoZjYwQVg1THdXRjNSd3R4M2kyQ19PbVNqdWFFOVdPUkFFeHVxN0xVVXlPQ21tQnNBWDVKcmpjdE1sVlB1d0lIWWM0T2FybQ?oc=5)**
+
+## 🔹 Microsoft Corp
+
+**1) [Microsoft hosts the grand opening of its AI Co-Innovation Lab on UWM campus - UW-Milwaukee](https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJ1UEQzVzJ3dEdJN1Y4T0dhSjNvUWNPUHI5S3BiV1F3a3FlSk9OOVhOVG96bmpTZW1qUnNHX0ktckoxOThBZ0dNX2c5YlZLUHc5X2xLd2FEMmlocXpwVGt4QmxCRjZiX2k3M0xLVndkenl0M2Z3RXE4QXJvc1N5b25IdXV1SG5La1B2Q2NHUDhGWWV1bURyOFBFSG4tbWljVkNaUGp5TQ?oc=5)**
+
+**2) [Microsoft’s Sales Chief to Take Sabbatical With Layoffs Looming - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmVTTTJKWEZYRzJEeGNYQ3luMTVTWHVaOXRuX05ydGlEYnM4WW8xMF96NXV6QWc4WjBvaXRuWFE1c29tUlRlMTBNa1NfQkhKOG9NVWNTOVZEYmRaMlVOTUpVQl84MGhEZUFqdWxmV05CQ25EaHdFZWxLcUFxNXFJSTM2enNqeHNfa1JXR2VwSGI0ZkxlcnRHRmRLQWtadmxPWktTbGlxR0kwc2xQd0NtVVZrSzc?oc=5)**
+
+**3) [Microsoft Corporation (MSFT)’s Next-Gen AI Chip Production Delayed To Next Year: Report - Yahoo Finance](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVVPUWpTNzhURmtobzlsRW5GMmROanU5M1M3YzcxMTZ3ZnJ6UFk3UDM5U2NoZFV1TFd2NFQ5Yy1lX29tSG5yeEZxS0N5MEVtcTN5VXFzZF9nbzliWHJydEJIQ1A3d05La2RJLW11OVF0dHV1dFM2T2FGZDE3el9Bb1VRY3dqdjZW?oc=5)**
+
+## 🔹 Match Group Inc
+
+**1) [5 Must-Read Analyst Questions From Match Group’s Q1 Earnings Call - Yahoo Finance](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbEc5TExrY2lVTTYxU0NyOGhCaG04cDJkNElGeDlSYkNjVHBoVENyb2gwaUUyd1BiQ3dWRG9DQl9lOGc1d3h3TXB3UVFOczJzLVVyY096QjFGTG1rLVZpUDFVTFE2TVBRcWg5Nm9fOUxDWTVwS1NMMHNoUkx6a1ljWg?oc=5)**
+
+## 🔹 Novo Nordisk A/S
+
+**1) [Novo Nordisk A/S (NVO) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance](https://news.google.com/rss/articles/CBMiigFBVV95cUxQX24wUU9YTDBxRzF3c0wyUE1rN1pOVDROVExjMDFWR056aWltRUJHRGl1akhLVmNKMnVwOTl3al9aSjRBOWs2S3czZ2tNRnFmR3o1WmQ5akxubUhoVVkycWtWbVcxMzN0elRDaWF6Vmh4TDl6UWJEU0I4d1pCUTJMUU9rUVhfRzBOblE?oc=5)**
+
+**2) [Hims & Hers Health: Buy The Novo Nordisk Drama Dip (NYSE:HIMS) - Seeking Alpha](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHlFbjVRREFaXzBZcFFXaFRkZnNlZnhzaElaT0dzU2tiREpRejFJcVlMdVM0RWhyNDBRT2RIVXBnWVlZZHJmelVUaS1rSmRjTWJqeGF3bTdjb1BSYVhyQ1pFTkF1eVJGZGNoZ3BzekFhS1Zqa1dZeUY2SmFydF9lTHZwR2hiRzVlWFg0dlRVdTM2MFh1WFd3?oc=5)**
+
+**3) [Novo Nordisk, Eli Lilly face first major obesity drug rival in China as Innovent gains approval for mazdutide - Seeking Alpha](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRnVxbUJqZGpCclR5cDNid25SUDJmZDNZTEo4NHoySl9kdXhneTJXTHpCUmRIWHhTeElDY1FxRWRnaXNLUlBwSHpaMXZod2RqZlBXSVBvT2NCcGFMM1B6aTQ0Q1hqTS1PMXdCN1JmWFpGVkY0blFISWpLaGRpdk80c1JnUUpxS243bGFGWXlGMS1rcDItZ2wtSjVBWVdXVlduaXBGODZzeWtWZVJuWm1MQUYzby1JQ0ZfY2lzVzRuR00wTklmNXVaZVlTdldzbjJqdG9MRmcyM3hNRDBVMWVV?oc=5)**
+
+## 🔹 NVIDIA Corp
+
+**1) [Nvidia insiders dump more than $1 billion in stock: report - Fox Business](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZXh3dElXMzBoaWs0NkdKY3hpaVBxQTlFbUpFUnhMTWdyMHVoR1M1dm1TQmo5aDNRLW1CRC1wdm5jZVhZLWdMQTNXUHFKQUFqdWRqSHFrR0xYX0dWUFRIQnp1c1NvZjVtSlkwOGRjSTVHLTd2Y1JPc0pOcHc4ZkIxTktzZWxlS2NLem1uam05aTJSanPSAZgBQVVfeXFMT2FORzM0QTRDNE1XZUpDSVlRWHdWazhSMk9GdkVFd3pCdVBCMkVZNTJIR0NZWHh5Rk5SLTBtcVd4MGJjcWRqTTJ0dVF5a1J2eXhENlcwWHRwRnFEZ1hPRFQyNXVyRGJsNkpvaGQxOG9xbVdMeWF6OElwbUhaaVRsemZ2Q2lkR1J2WndwZ3ZwX2VuSTlaZkRpYTQ?oc=5)**
+
+**2) [NVIDIA Corporation (NVDA) Insiders Cash Out Over $1 Billion In Stock Amid Market Surge: Report - Yahoo Finance](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVM2UFZxemZ1MURGb1BxMVNIdlVUVDhXdk5hckgyWmRrdVJLal9SS0tjdXVfWjR0Und2dE95Z0RLbmRnbDkyeHVKQzFTeUxHYjZhSUZLWjlzUzkyU2IwOEVRSjlZbUh4amFUNDR3dkpjejlXSms4YW91VF95UEpHZXFlX0x6aUd6TXNJ?oc=5)**
+
+**3) [NVIDIA Corporation (NVDA) Set To Hit $4 Trillion Market Cap - Yahoo Finance](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMEI1b1RYN3hPbUNua0diQlhQNG5IY0xrQWhGbklHeWNoQXVmUEZERUJHZ2pjRGNBVHUtVzUtbXZxeFBQV25tTURJWjVuclFONkFfY2pOXzFYVVd0NFRhNkxYVFFJMnNRSnlGRE1FUUZwS3hrUGIxcnd0ZDdKY3JLa0lyYw?oc=5)**
+
+## 🔹 Oxford Instruments PLC
+
+**1) [Oxford Instruments (OTCMKTS:OXINF) Shares Gap Up - Time to Buy? - MarketBeat](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWG1FX1gxTHVidTJPcFVPcHNNQW5yTGFHMmNHbk9vTUdSNnNOelNacXNBaXhyOFI5Nnk0UGEtZHZvOGtoZXhiRWxDWkt3VWV6eE1jOVNnQ2lDTF9GWkQtUURNSWlBTHhzQUhHRFMxZEY4dkpjXzVIeFlWVS1PQmJtWlVMRzgyWUxUdk5KWkI1Z1dUY0JFaXFoNUZsZzJXRFJSbzFqSUNKdUduS0htZkI4?oc=5)**
+
+## 🔹 PDD Holdings Inc
+
+**1) [Mirae Asset Global Investments Co. Ltd. Acquires 39,263,851 Shares of PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) - MarketBeat](https://news.google.com/rss/articles/CBMi9wFBVV95cUxObGJuX21pTWo1VzZYaGZBd1hnTDRlMFRFUHl0VzBfUmRWNXVqNFk2dWFXcHZRWDhnS0ZCOWozQWxWdU0xaGo1eUphWU5FNUJfNjZLLVY2VVNoUHRWdFhKcTlrVlNPYjBEMWVlT29MYjhGTTRUMjJDQ19pcFRxVlRjbHRnT2FkTVhxcUZGeEhNa0xEbGgxVFVaQnN0a1hGYmxGQlhtelB6b3JPVWlwQThmYkg1TG8wY1Ywb1dIeHZpQkpHMG1paGNrb2tCZHVvMm1WLUoxaVJ4alQyUE5ocmtqX0w4dDI3V1FMeWEwVjA4YThFX0hpZGZ3?oc=5)**
+
+**2) [PDD Holdings: Still A Buy Despite The Tariff Storm (NASDAQ:PDD) - Seeking Alpha](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTBKRnVsc2pKdW9PaWFDam1tbjJTLWRhamliamVYZnIyRXZRUl90Z2lZRFgxeFdUV013bTJEMUpLRFA1ajJybFNZZ0tTalA1d0xFaVpqLTVsMVV5dzE4SFVTbTJ6SkF2amNJMGVXUm9wVVdPcnZuWGkwSExmTGFHZlNZUlNLemJpbnlCQnZBU0lJampv?oc=5)**
+
+**3) [RedJay Asset Management Inc. Acquires New Holdings in PDD Holdings Inc. Sponsored ADR (NASDAQ:PDD) - MarketBeat](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZVVIS0k1N293dmZJTTE5cDd0ZFNqVlFNaHNUYlVKa1BHMldPY0VEMUVaRWlHTmc1Z3NLeDd0empQdmFHWmJ5eFQ3Nk01cVF0TkRWMVFFSTc1SnNQQXQtYm9ZVzFvRXg1YmpNTjRVU0Z0LUpoeXEybFZabXE3ZWptOFhsY05xQndvWm9nT2w3YnI4c3M4cUJUOWd2VlMxa2traFEzN2ZjZjhEZW1UdjlhNmVEb1pwRl9qbV80U3RQRk55d2QyMHZYV2FxNDFUYmdEcHFGQ0ltTExRX3hxWUgtd3N4QUNvdnMyYTlWOU13?oc=5)**
+
+## 🔹 Rightmove PLC
+
+**1) [Rightmove (LON:RMV) Hits New 12-Month High - Here's Why - MarketBeat](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXRnNWk4Z3RaMkVXNVFBLWNlQV95Z1o5eFZzLXZLb0dJVHJ5VzVTVjF0UTdNb0FBNkEweHJFYldLU0tva1Z3WG1XWTVFc2JRVEhpQU9feUZia3NoSmxJVlZPMjktTDlPVGIxbWdfZEFwSUhuY0kxclRfVEZpc05QS19NM1NEbWNoX2JrUDg5bVBrM0oteGxxWGJQYWhTYkdKWG8yOVpR?oc=5)**
+
+## 🔹 Roche Holding AG
+
+**1) [Roche Head of Pharma Research and Early Development to Retire - MarketScreener](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2FBSW44LWhRdVY4Rmc3c0o1T1QzNFV1cGwySmpLQ2dqcGNSV2RsZXlSaWNLSGphby1YZ2owZWx2aThlTnY0SkRtOFFUQmVOZDdKTkEyRl9QRzBibVdLR1pvUXlYZmRMeU12ZXRjamF3dlJYMHEtaGM5N2NKMXFHSDFoc3dET09kTThHMW9taWxMYWNjWlVCZEhoSVg0VDk5WWpZLWJQUUpZUWNaN3padDR1ZTB1amVqYk9BLUFhVUtjVjlydml6VjdQa2IyN0FyNkdadHp1b05LYk9f?oc=5)**
+
+**2) [Changes to the Roche Enlarged Corporate Executive Committee - GlobeNewswire](https://news.google.com/rss/articles/CBMiywFBVV95cUxNSy00WXZoa1BiQVNKYlpMLVdsZGVwUDVxZmRaUll3Si1MMXVwMDdVQ2xiZVVCUl9lRVpnQ2RZT1BqSEdXb0xwd0VzSGFrUzBqNmtObGVhZld1S3RXYW5MeDYyaktpNDhTcHREZEo4b2dKM1Z3MkVrOFh6d0lwcjRWbkh3TVFzTmwwYjRMal9HUGVQNktKVjJoWVBKaTBiVS1SYkd1N3VwYkR2QUc1NzVYMVJ1dlpKSEk1RWREVXJhMGNHTmRwYk1FZ1B3UQ?oc=5)**
+
+**3) [Changes to the Roche Enlarged Corporate Executive Committee | RH - GuruFocus](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaVBxcWVHdWs5VVd5Y2t2TnlTTlE3c0VFWjk2bDR5VHh0bVdkbjMtLUlrN1hLYnliU09udGV4dWt0bTNmbjlmOWRfc0xYc0ZmdE5iX0lJbzFLejM3bk44ZWxDUVVCeFhjSS1KY192N1JEalBheFkwVC1DYkNkVEREaWRuaEZ2TkFKT2NYaGNnZFVHT3k1R2RvUU0tejZBLWFINGlvWkpWOGF6ZUhwUm1jTXNsNnVCelJzbktYTzBxaEx2RFdkWUtSQjY0eGU5bTlCZjdhbVNhRGZTUzlNUjJFS2ZKM3hVVHYzYkJNdXBRRHMzb1pFT2hvT1NCSXY?oc=5)**
+
+## 🔹 Ross Stores Inc
+
+**1) [Ross Stores, Inc. (NASDAQ:ROST) Shares Sold by Achmea Investment Management B.V. - MarketBeat](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQjZvZmhad2cwNUFQQXIwdVY0bGtCZnVlYl9mTm1SSndiQ3k3U0ZDVXFzbVI1OFpVby1zWWY1Q0dLMEFacGJrR0xPQUQ1aThNNjRXX2twb0JiclQ2dVNja0Y1OHk1bHlTeXZkVnQ3UURWT1p2aUxFTW1Ua2pCbnhiVTI5aUxmQWVGcEZpYkJlQ181VE9RN2NTd09oNTBuZzhMMFZHRHhNNHVyajdYekZtN1ltczBFYUczQkZRbWRtdmd2b3kwakYwWE1QaGJybU40b2x0NFk3NFc?oc=5)**
+
+**2) [Ross Stores Establishes New $1.3 Billion Credit Facility - TipRanks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhYNl9rR1lYY0RObmtETUxxQkJFYzVPMjg1VGZITkhibHBHNUp3ZE9CdlFNakFuVElvVHVIN0U0YTFqYVE1RExfQ09RX0NqZ19iM2FmcEVCdEFVVFZYWVpNanM3SlZ6SjZhWjR3RXV5anBod0g5OUlvS1NBTEJNNnRkR09KYUlNc0t1VW5LNHFYM0h1Zm0xdjNnUXgtWURwTEVqc3pqeEF1eHc?oc=5)**
+
+**3) [Ross Stores enters new $1.3 billion revolving credit facility, replacing prior agreement - Investing.com India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRUk3NzFvckRJMlBreU81bEpRUmx5TDhTMHF0d0NILVpIZU5UZGthVW9wdnBmaS0zZXg2dkpCUU4tM3FtSlRUZjlIYTZDcmRSMUR2RkZwVUF6QlpGN3k0bmNYb3NGYnNZZENyNUo3YVRXVndwQllDTDltYk9FTUJzRmlSS2pORTlINHVlc0xEeTJQd2EzVDZZTy1VbzNIX1R0Xzd3dW9Pa29FWjVDeG1yVWE3TnlFbDY0eTFNN3M4dTY1MkpLRmw5TG5vVzVXZjQwQ3hVVTBlOA?oc=5)**
+
+## 🔹 Ryanair Holdings PLC
+
+**1) [Why Ryanair (RYAAY) is a Top Value Stock for the Long-Term - Yahoo Finance](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rTTdjNzVBVUhGMHhnNTJyREVpNDBNSTBMdHFJQXZURU5scEttSDlpRzRYa0lXTVVfNWViZk1YbF9PV2ZmWEVDZWh2VUpYeWlHS1UyRm96N3lzZEI5NGxPQkNrNkQ1VU5nY2JuQXBPc0JZdGh0ZXdsVncyd2RqZw?oc=5)**
+
+## 🔹 Samsung Electronics Co Ltd
+
+**1) [Samsung Electronics Releases Smart Monitor M9 With AI-Powered QD-OLED Display - Samsung Global Newsroom](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWNtMldmRGJkQ1NWN0Z1TGRSSmhQV3ZraEtJQndHbnBMSVUxWUVqZHdJblhsRFJsYWZ4bVBuUklXQmwtMFgxNmJIOEZWdUw5TDhiRHI5VVZpb05oRE1vVWZzbEljaFlYaWRoTDUtTTB2ZEkwMDlpd2xDWHJDVllRNWszbGZkRVNEOVJodGJYaFdxZU5iSkl6dnBZaVJ1em42ME5MVjBRS1Y?oc=5)**
+
+**2) [Network-1 Commences Patent Litigation Against Samsung Entities - Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEFqXzZOclkwNHg0b21uZ2czWDdabGZtX2Q3VF94Y0NvOE1ySTJzdkNyYXAxaEx0SmJ2dkdGZFhfOXB4N0lfM3BoSk50dzJ3Qk5MOFF2bURqQWMtck9HS3ZiMllhSUlYRTB3R1Ntbi1uWXZZZ3pKNDJRV2VRakhjbjNPNVlWd3U4YkpyMGJva1VUUnFRMFFxYjliMXpfRUI0c3Rka1ktVHdGVWo1ai1FRTdIOA?oc=5)**
+
+**3) [Major Patent War: Network-1 Targets Samsung Galaxy Devices Over Critical eSIM and 5G Technologies - Stock Titan](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWNzTVV0YUI4V05Oalh3Q0FlY2RUTmw5TUU5WjZfSlRMYUxQN1p3M3cxWHBheDVXUWtGZHdhU1laV0VvMkIwNlJKU1dPc2hlN01makVWQzBCd2lpZ1VPVjRvdHRmNTN5NHRNRlE0c0p3TUp1S0NLQXNyU2xubjI2M0NsdmEzOHBCSjBFZ1lmVTlDeGYwcTkxdThpYkNGNXBXdzdNTGhmWktjMjBK?oc=5)**
+
+## 🔹 SS&C Technologies Holdings Inc
+
+**1) [Astros SS Jeremy Peña Has Rib Fracture and Is Headed to 10-Day Injured List - FOX Sports](https://news.google.com/rss/articles/CBMipgFBVV95cUxPalpzMjBSN2tBN0NrVlc3ZzlHVEJjUFluVHBsTUxPbS1rWU1CakNwMENaeEhfT2dpVjNkMlFfS1ZXSk1oVzZpamVvU0laVHZDeG41WkR6ellCYTJmLTItbHJIRHpGa1ppYzQtQ1N4SVRnU0E2eTJsdERiamVOLUNqeXNsSTdzNWJ6d3dvLUF1YzdjRnRSa3dVQm42c3YxMEE1N1c1WU5R0gGmAUFVX3lxTFAtVHF3TG1ncVR3ZUxRTGc5bENqb05sTmpWSl9wdXkxLVdCTFl1LTdZV0EwNzVvUWRpOHJIdnF5dTFDTmlHNmlFejU5OC1DeGQyNXR6M2c1U2xPTnFmWW41bDlZb2ktM2NqcU5xdV9pMUI3c0hTb2czcndoSlFQQUZDMW5mb18zTXd4dHlsN3NPYUtXclVJZm5ZWU5KNzFDazhyN0Fsbmc?oc=5)**
+
+**2) [Wisconsin State Patrol enters photo with S.S. Badger into national contest - WLUK](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa19NbHB3bldXaGxZSzV4X1FDMmpKVGxyR0tOR3N3c3BJd25ud213UEMzMm1NYVNSMTBCbkpvVGo3RHBjaVlUYzBScXZYUzRwRk5ITEhLMmZxQ1JTeEdReU80S2xMN2FiWUdkMmpRTTYwdVlESnE2UjdOTUxVaU1HbFNXSUJpbzZsZDF0MjUxdUZwRzNxbTg5clR0UTZuTmRfblhHY2FYUGV5Wm9ucXozVVFZTzBlV3lpZGlNZmpuVUJEaHY5M0trTmRtNzRjQmRIYXdsUU1R?oc=5)**
+
+**3) [Doublet SS 26 - Office Magazine](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91R1g4b2lycGlrLWFZa1otZFR6WUtaUHA0aWtneTUydGpEQW51VzZYaEZuLUd2RzgwWFB6eTNHTFNYNUdJTjA1QmQwR2FPUDM3RVE?oc=5)**
+
+## 🔹 Thermo Fisher Scientific Inc
+
+**1) [Wells Fargo Remains a Buy on Thermo Fisher (TMO) With a PT of $570 - Insider Monkey](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHdGLVk0ZTN2THVSV1pCenQ0MzY1dE1PRHFvdHd6cWdFRHp5WGYtdlFiQnZZTHc4S1hVRm5pZ2s3N3REOEVFaXVIUVpMSzZJTU9MVHNOZXhFcGFRQldmc1dNeWJQdzViTThPcHdhU0p5b0tjSHdjLTJEazhUUGd1ZHZYTVJab3RmYTJVdllOUkI5UE9mem5jQnZDdjNmVG5rd0dIMW9fQmJ3QkHSAbMBQVVfeXFMTnVlalJxcS1hVEVNdU9VOU5yY1FHaUp0Zk5uaDVwVFlMcTlvX3lfLW9OYkZPaVVnMEU4SzRhclhMalZJeXA4OGZfUTFXTkV2bTNpRlkzS05TTTdRQXJGMkdCa3VvSGpIbnRadGRWRHBtYWVhNnBkbW9KanZrck1OUUNva3RHTnljSmNxUUQ2T3RsRjF1cXgxS2diMGRfSFZGZTM2M2wtUWNrOFBZSC1yaTBaTkk?oc=5)**
+
+**2) [Exosomes Market Is Booming So Rapidly 2025-2032 - Thermo Fisher - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPX293Smo1ci1sZGxlVDZzVk8yOWF5bHRqYlFjWU5vdS1GczFwQmJGREUzY1VtemtVc2hteHE3RWg0ZEJwLVhodWFUSUZFdERIUHp5Y3ZseXZ2ejV3NW11a0kzckk1V2lQVTZKTENkU0s3bm15RDlvbjhwaWhGTGF0UTJWSDJOYUl5WEs3RG01akpUeFl5eWY1NUJ2WGR5UQ?oc=5)**
+
+**3) [Thermo Fisher (TMO) Stock Declines, Extending Year-Long Slump - Daily Chhattisgarh News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmJkc01aM3RDTjJGbWt0eGV5cnVORTRPUjJJdjdrcExwN25FRGhjVkI4VTVTcDYwY1lIa3FWcXZlRG5neHNHbzFKdHdUa0JYYW5yMFhnVGZWR3RlYnRKbXBTOWhFclEzYzVEVkkzaUxtZ3E1VzZ4R19DTzhCa08xVFhVeVpRVm5GaUpNb1R0OUVuc1I5UlNZWVJwckNzU2dMUUpXaGprdw?oc=5)**
+
+## 🔹 Taiwan Semiconductor Manufactu
+
+**1) [Colonial River Investments LLC Takes $1.94 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. (NYSE:TSM) - MarketBeat](https://news.google.com/rss/articles/CBMigAJBVV95cUxPcThSdkhJYVlLYV9nMGNMU3k5VGxhZ0RmQ0J1cl80OTBvMHVOZF9JbUxRWjNZVEJfWDFYQjFWd2YxWllRU253M3ZuMEF4aHl5RDl1RXdWb2JrTHZBU0N1Wl8wUVlZeDh5Vk04Z0daZ24tUWpXdGY5cDdqQk1DbnlxblFfM3kwNlJlTTZZSm9xN0pwSV9sTG1LUmVmNzVaakJQaS1SWXRSSWVmWWJSTlhnTmNsVUFUSWJxUFlueGJSN0Z0VU5UQUZrUzY1OUJ0S2NtLTFXYlNkTmxORUMzOGpFS3labUU3WHRkX1l2TGJPeEJUcTV6UU1ha3hFSXh0YjRw?oc=5)**
+
+**2) [Taiwan Semiconductor Manufacturing Company Limited (TSM) Fell in Q1 Due to Concerns in AI Semis Landscape - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxON1RpeFJuSmFsUi1lU0ZURWlZNTN5dTNNU0FnaWRHMFdnRnA2NTd1dml2cndwM1RnTUs5QUxUem9MUmVPY2lXcENvb1BGMWd6V0tKbmZFNVJwaExYbnktY0MwZkVGUG9VM2ZycUh3eUplSHpvbi1VbnMtZ2xselBKQnlxSll6cFRGeTdLLXFhOXpWdXFiczlYZVF0RGw?oc=5)**
+
+**3) [Taiwan Semiconductor Manufacturing Company Limited (TSM) To Inject $10B Capital In Unit To Counter FX Volatility - Insider Monkey](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTzNKRVhLVjdZWlZ1d1NSdWtBenZJWGs1eE14VV91WWd4WFIzNlZVbkszWHdJWU1VVXJLMkFhbGJfcWFGUTkybWlseHkxZ2dDRkd1akNSdjV0RmVOYnZCdUtBZ2xiM3hrb1U1QUJndW0tVWw0bUUwUVJTeHg4NTR4TGFncHhTU295dU54U3dGenptUFFiVDZIbGNMVnFlRUU4N2JSYjlOWE4talhzTjFMZGtWTF9hemNBblpyUWNjejZrSDlGZ1pLV1JLaFpvdGZGTkt2QVAtcmoyWWNLRkJVM2tOUUpWUE100gHwAUFVX3lxTE5BcndVV3lrMUZvSGFOUEROWm9QMF8wQUJyeDRuUFBYYmtkOTBrT3dVbFF6bnJXaW9WNTVXMXdzNDJjUjF4UE01MTVXalFFR3dOdVVIOVhHWXNkUWE0LVRwcUJ0c1lNTm1OY3I4aHIzODMxbU1tU1FLcE0zcVFtNHhSSkNOMlFId2FpUmJWaGtxUlhIUlhUV1RpcUdxTGJ4TjFqaTVOVUVGNHYtcGw0OGc2UUdEbXBqdE41MlV0ekhwS2M3Tlp0WlBBbGd2VXpPRlhRak44QWZQS2FVc25ubXVoWkJWdE40ZkpIUGFFZVlseQ?oc=5)**
+
+## 🔹 Uber Technologies Inc
+
+**1) [Uber Technologies, Inc. (UBER), Waymo Launch Autonomous Ride-Hailing In Atlanta - Yahoo Finance](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmlVVlhKOHEzakU3emlidnpYN015QlNuV0dpU2w4YnVUT3JWbTc2YUNGYW01NHpFYW1Wa0k1bWtOUkRkSlRuQVo2ckd1NEdsM0hlUmsxczdETE5VYTFJVTdHRVZRUTh3VVd5azFQNkpwT3NjVFVMTDRLWnFjd1UxTm9fbXg?oc=5)**
+
+**2) [Here is What to Know Beyond Why Uber Technologies, Inc. (UBER) is a Trending Stock - Yahoo Finance](https://news.google.com/rss/articles/CBMihgFBVV95cUxONmlmWTVweTZGejB5SzF0SkRxZ29aVFladFJQbFdrMzNjRlFhVmE3VUsySmxGbTFvM2ExeTBEQ1M5MnRxMjdhUlRCcUgyNmdBYnJIbmhncmgwTEd3NnVqRk1WRWJ5NXNPenBiSi1XRjZGTHFUTi1YN2VfeC1vVmRGMUFJMXBJZw?oc=5)**
+
+**3) [Uber: In The Autonomous Sweet Spot (NYSE:UBER) - Seeking Alpha](https://news.google.com/rss/articles/CBMidkFVX3lxTFBnYmptc3Z5ekNxUlVSRVd4TUtXVXNUanpNUGJ2TnhTOHBJM3BxM24yZzdXNmxvdUFpWlJvbkZrbGdGbFo3UFdoVUVhSTFDeUxCbGFDZExseUtCUEoxdEpjMm9RdDg2T2hFblZWQlVybHVCYzRRbUE?oc=5)**
+
+## 🔹 UnitedHealth Group Inc
+
+**1) [Jim Cramer on UnitedHealth Group: “I Can’t Pound the Table” - Yahoo Finance](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ003cmlWQ1JwbE9ySHlXam82OXNpZG0weWpTN3JibTZFZ01EanJoUFk3dXowRkhWeWhwM0JSR3FROXRycWlhVHZYUU9OOWdzWjVOdzBDV3duOUxzTjd4M3c5dElBeWZKWm9kU1cxalNKYjEyWm1VbVpPam1sR2U3LTZpaw?oc=5)**
+
+**2) [Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against UnitedHealth, Bitfarms, and Reddit and Encourages Investors to Contact the Firm - GlobeNewswire](https://news.google.com/rss/articles/CBMi3wJBVV95cUxOb2ZvQTNhV21mOHVIaG9OamNmZXUtODQ3emI0MHRrSHJMT2NFemRteFNhVjVSZ0theko4d05XSkFLalFtelFLVDk1QUJDX3NsdE9Xb241QXgwNTVyREc5VThEa1Bmemt0X1JDYzFXZzV6X01oaXhyZy00dndhZXhmdXRJLWFRSUUyOW1MLXAyQkpoUFpBeFZNbm0tejBFbS1kMjkya0hiLXhBcEtyQkU0TFJWWFl2XzNsYUc5NWlXeXY4ODRKbUZzamNfMDd0X3k1UnlPZzNVbE9yUG54WlNvRDR1MUtSXzBXa0xYc0VDUTktTnRxSVJtdHBhd1pob3NaZXUtMmRlckNsbzhhdjVNc0V2VHhuMHVmY1BWQXVpaHltREYxQ3kzTDEwYzJEMklRaFFscTlXSnY1Wm90ZE12eGFCMjdDTW14eU12b29PT2ZJcUlQRm41U2taZ25VUjg?oc=5)**
+
+**3) [UnitedHealth Group Incorporated(NYSE: UNH) dropped from Russell 3000 Growth Index - MarketScreener](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb180T1BYM0RjbEZTUDFiamJDNzdBa3p2NkNTbUlnRDN3eHRWb0tpVzFzTVlyRDFpWHFnNG9kSHdWTW93RXBrOE5vc0FQRFV4QjdkVzBuYjZ1Mi1PR0daQUdPYndJLVVRNUlGa0lrdmxWTVdGZHFqZ0F2Tm5oVkltdmNidExaVHZZeTlnWC13RUZwR0tzZVZBb2c1WEl5RFJVVnpMQVNsUGFsNEc3RFA2d2lqNng2dzQwT3B4VVhGYjVFVmtxMWNYVjJHUGM1dzJqVVZoYzdSXzVhV3ZTSWVBdVNQZDdSbHppN0VJTmJBMzJpa3VYM09FSXF3?oc=5)**
+
+## 🔹 Visa Inc
+
+**1) [Visa Inc. (V), Mastercard Merchant Fees Infringe Competition Law, UK Tribunal Rules - Yahoo Finance](https://news.google.com/rss/articles/CBMiggFBVV95cUxPaC1qMVJFNG5hY1Q2d1ZLZHI3R3R1eU91TVJzMkJIT01QVXdCUUVvQVR3bmI5dnJoWlJENFlxck9GTjV2RElhcFRhQUEtbEl6RTIyYy1GOXEzb1BuVXZ3Y2U5UjhFVXZtMnNOQl91V1E0T3pNeUl1Q3Ftc1FhbmtBdGlR?oc=5)**
+
+**2) [Visa Inc. (V) Defeats Lawsuit Over Vanilla Gift Card Scam - MSN](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkVsSThyREVsa21VU21BU1BMcFBXVldoWUR3SXlNbWdfS3k1ZnVRX3dKQ2gweW1BMmdsbjNtVEY2SkcyeEhTczNOOXg5QzBYNlVzRElxQ2VGOVIyUlFVa2pWUjdrLThmVVIyelphVzNEOFozbExFWFB3YkY3OW1WTzZoMFBUNW9hWERXMDhVQjFWMEQzb0pTZGIwNXVwVW1vc21mVnMxWHhjUQ?oc=5)**
+
+**3) [A U.K. Regulator Throws an Interchange Obstacle at Mastercard And Visa - Digital Transactions](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRE1DOFp5eXVDeFI4aXJYWXhqaGU1ZFg2UnRNNHhGN3BzM1RKZ0Z0QUg2Yzg0QktjZ1JFaDJxd2owSGs4Y3lnTlVabUJVSEZJTW9MNGdVQUNEbmdiZERIWTFqdTRuaVFEd2tQRFI0cTFiMDk3UzJXU3FhbXdkazZEeDZGaXBWRlVwd2xRcFFEN0hUM21rR2VheTZUMUUyZXl2em9QcThzS244UQ?oc=5)**
+
+## 🔹 Vipshop Holdings Ltd
+
+**1) [Allspring Global Investments Holdings LLC Decreases Holdings in Vipshop Holdings Limited (NYSE:VIPS) - MarketBeat](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR2NsQXQtVkpjcV9UMi1jemNxZkZlVnZ5cWh4WGhGdW8ydTNubm1vNGVKZFJ6dm9wTGRSR1ZQSGZiOGJSNXV2MEZPWTJIVDhmcWdxSHJQUXluWG1yWG40SGlPYWd3RDBrNDRqeFBRUXhIV0ZuS3Y4QnpscDgxdDB6TU9JaC1Ob2xScG81WGJuSkttNHhEeGNlZkhUZ3hOV2k2dERjYmJrLWxNVi1TMHRGWWVuZnhieUVNNG13Y3ViRklrQ1JDNkMtRnR1YlJKalFubEx4TTMzVWZWSmlQZzlvczU2cmM2a04tY21JazVfQ1M?oc=5)**
+
+**2) [JP Morgan Lowers Price Target for Vipshop Holdings (VIPS) to $18.00 | VIPS Stock News - GuruFocus](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeVBUYVg4SjhlVk9GOUVfNGZzSnBRb0REV0RqeUlnQ2RoWGF5YkhJSEZSaE9RSHYzcVZHSzJDOGlUbkRoRWVKZVhzanVIUWFNa0tHazBUeEhDUmZlbGljZ0M3SmtMSXc3YmQtVl9PZ19vMkdjVFFtaDBrMzJVR0Q0aGlZUzF3aVV0UnhzbC1wV3c4QlM4Snp0bEVKS0dDVTFfYTVGVFhkU2tUQlFKZ3hmRTJRSXJZeS1aeXc?oc=5)**
+
+**3) [Vipshop (NYSE:VIPS) Shares Gap Down - Here's What Happened - MarketBeat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW5xLUw1T3N5Z0dEbjBqN3pIcWNvQm5YbW1BOE53dzM3N2t1ZzF5Y1pLLWdFUnAwV2dMbW9xOHBhaU9CemJOb2VnRks1T0RlRmYzWEZJRWZuNnpDR0hDMWM1UVNTcktXWWtZZ2YwT0JiQ1Z2OVkxcXg3M09xbEtJVk9zQlU1VjRDbThvTzQ3SGQzWlF3WmZTNGJQX2REd3RNeXQzVDYtNkYwdw?oc=5)**
+
+## 🔹 Zoetis Inc
+
+**1) [Quilter Plc Increases Holdings in Zoetis Inc. (NYSE:ZTS) - MarketBeat](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1NCM3hkcnkxcVJyMGV0MExrR3E1QkRKT2JscmdQMGpyTW5rX19HcUx6cm50bGF4VDkzVVNmVlVwR2p4OFd6cmVLX0dQQnhEOFIzSXYzQy1rbW9ZemZxZWxMcGFFTERNN3JYWnpTNjJLSkpEZmZwYzhCbXNKUnlZbnRBOGpPaDBxLWtvdFlUdUhhSl9ralk0Q3N0aENtbXV0Yl9OZ0RTTWgyTzNaM3RxMllSTzJraXFo?oc=5)**
+
+**2) [Does Zoetis (NYSE:ZTS) Have A Healthy Balance Sheet? - simplywall.st](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYmJEdVlwYVhZRlVIUkJldkg3Y21WNHl6Zk51RmJ0bTl5TDhON2l5OWthbzh3WGFMaHRKcWF2cWhOZHltYjA4eVNkM1NKb3kwS05INjMtMTJlaVczN3YwSTB5Um95aWdUTmJ4SmEybVZIbmxjY2dfVWFUcmE1TVZrb19ybk5xd2JFN25NbnlrbnFNRi1EejA4WURhUTBUdnZlTjdLQVFBNHh1Ty1pcWRoVDNsd0J3ZXVlRWNOQ09QZzQ1bkI4MGfSAcsBQVVfeXFMTTNONW1ydlRlSEptQmR4b2xRaDlzektNSndKN1lXaTh6Ung1aF9CTjJXMDhQWk5rTVJTWHZuUVpjVWtPbDl5RTlkT1ZNeWxxS0Qya3VNUU5tUnNseWlOM2hBaW1ydnNQT2pDNVVGdWlTazZUWnJ1QUoyVDhORzhMclp2MFFETmR4aENSSFFiUGVqMUFMWXRhaVpaaUhCaHFUb3NiRHBhWUxnNkpDSmI4VHAxU0NZbFp2NVR6bjN6TFlhbGZUX3hSUkN0LWs?oc=5)**
+
+**3) [Achmea Investment Management B.V. Increases Position in Zoetis Inc. (NYSE:ZTS) - MarketBeat](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHA2RDdUbERnNzA0YVJSWnJrc1lucDdyOWRKNV9pejJNM0NNampDSE9KY0dzUGducXNNUFpJS0ZIWHI2MVo2VGEzQ0NMNG5zNmJzeDZ3UXIyTkhXSlNzc2ZLeUluWTk4VzZMeHBrbG9VcE1vak03TFhzREhlam9UaDlLUUx6MS1MSGVtYVJCa2ROWXNxUVg2b1lNTy1Ha21WSmtrbS02bWpqU1lPNkFKNVRnWGJNNjdnTHBsUFhRQXhNUHpfcGFJaVRiWFpib3V5VVRmM09R?oc=5)**
